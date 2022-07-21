@@ -1,0 +1,6166 @@
+[
+    {
+        "id_state": 1,
+        "city_name": "تيمقتن"
+    },
+    {
+        "id_state": 1,
+        "city_name": "بودة"
+    },
+    {
+        "id_state": 1,
+        "city_name": "أولاد أحمد تيمي"
+    },
+    {
+        "id_state": 1,
+        "city_name": "أدرار"
+    },
+    {
+        "id_state": 1,
+        "city_name": "فنوغيل"
+    },
+    {
+        "id_state": 1,
+        "city_name": "إن زغمير"
+    },
+    {
+        "id_state": 1,
+        "city_name": "رقان"
+    },
+    {
+        "id_state": 1,
+        "city_name": "سالي"
+    },
+    {
+        "id_state": 1,
+        "city_name": "السبع"
+    },
+    {
+        "id_state": 1,
+        "city_name": "تسابيت"
+    },
+    {
+        "id_state": 1,
+        "city_name": "تامست"
+    },
+    {
+        "id_state": 1,
+        "city_name": "تامنطيط"
+    },
+    {
+        "id_state": 1,
+        "city_name": "تيت"
+    },
+    {
+        "id_state": 1,
+        "city_name": "زاوية كنتة"
+    },
+    {
+        "id_state": 1,
+        "city_name": "اقبلي"
+    },
+    {
+        "id_state": 1,
+        "city_name": "أولف"
+    },
+    {
+        "id_state": 2,
+        "city_name": "تلعصة"
+    },
+    {
+        "id_state": 2,
+        "city_name": "الزبوجة"
+    },
+    {
+        "id_state": 2,
+        "city_name": "الحجاج"
+    },
+    {
+        "id_state": 2,
+        "city_name": "أولاد بن عبد القادر"
+    },
+    {
+        "id_state": 2,
+        "city_name": "عين مران"
+    },
+    {
+        "id_state": 2,
+        "city_name": "بريرة"
+    },
+    {
+        "id_state": 2,
+        "city_name": "أولاد عباس"
+    },
+    {
+        "id_state": 2,
+        "city_name": "وادي الفضة"
+    },
+    {
+        "id_state": 2,
+        "city_name": "بني راشد"
+    },
+    {
+        "id_state": 2,
+        "city_name": "الهرانفة"
+    },
+    {
+        "id_state": 2,
+        "city_name": "تاجنة"
+    },
+    {
+        "id_state": 2,
+        "city_name": "المرسى"
+    },
+    {
+        "id_state": 2,
+        "city_name": "الشلف"
+    },
+    {
+        "id_state": 2,
+        "city_name": "أم الدروع"
+    },
+    {
+        "id_state": 2,
+        "city_name": "سنجاس"
+    },
+    {
+        "id_state": 2,
+        "city_name": "سيدي عبد الرحمن"
+    },
+    {
+        "id_state": 2,
+        "city_name": "سيدي عكاشة"
+    },
+    {
+        "id_state": 2,
+        "city_name": "تنس"
+    },
+    {
+        "id_state": 2,
+        "city_name": "بني بوعتاب"
+    },
+    {
+        "id_state": 2,
+        "city_name": "الكريمية"
+    },
+    {
+        "id_state": 2,
+        "city_name": "حرشون"
+    },
+    {
+        "id_state": 2,
+        "city_name": "بوزغاية"
+    },
+    {
+        "id_state": 2,
+        "city_name": "تاوقريت"
+    },
+    {
+        "id_state": 2,
+        "city_name": "بني حواء"
+    },
+    {
+        "id_state": 2,
+        "city_name": "أبو الحسن"
+    },
+    {
+        "id_state": 2,
+        "city_name": "وادي قوسين"
+    },
+    {
+        "id_state": 2,
+        "city_name": "الشطية"
+    },
+    {
+        "id_state": 2,
+        "city_name": "مصدق"
+    },
+    {
+        "id_state": 2,
+        "city_name": "أولاد فارس"
+    },
+    {
+        "id_state": 2,
+        "city_name": "بوقادير"
+    },
+    {
+        "id_state": 2,
+        "city_name": "وادي سلي"
+    },
+    {
+        "id_state": 2,
+        "city_name": "الصبحة"
+    },
+    {
+        "id_state": 2,
+        "city_name": "بنايرية"
+    },
+    {
+        "id_state": 2,
+        "city_name": "الأبيض مجاجة"
+    },
+    {
+        "id_state": 2,
+        "city_name": "الظهرة"
+    },
+    {
+        "id_state": 3,
+        "city_name": "البيضاء"
+    },
+    {
+        "id_state": 3,
+        "city_name": "قلتة سيدي سعد"
+    },
+    {
+        "id_state": 3,
+        "city_name": "بريدة"
+    },
+    {
+        "id_state": 3,
+        "city_name": "عين سيدي علي"
+    },
+    {
+        "id_state": 3,
+        "city_name": "تاجموت"
+    },
+    {
+        "id_state": 3,
+        "city_name": "الحاج مشري"
+    },
+    {
+        "id_state": 3,
+        "city_name": "تاويالة"
+    },
+    {
+        "id_state": 3,
+        "city_name": "الغيشة"
+    },
+    {
+        "id_state": 3,
+        "city_name": "تاجرونة"
+    },
+    {
+        "id_state": 3,
+        "city_name": "سبقاق"
+    },
+    {
+        "id_state": 3,
+        "city_name": "سيدي بوزيد"
+    },
+    {
+        "id_state": 3,
+        "city_name": "وادي مرة"
+    },
+    {
+        "id_state": 3,
+        "city_name": "الأغواط"
+    },
+    {
+        "id_state": 3,
+        "city_name": "وادي مزي"
+    },
+    {
+        "id_state": 3,
+        "city_name": "قصر الحيران"
+    },
+    {
+        "id_state": 3,
+        "city_name": "العسافية"
+    },
+    {
+        "id_state": 3,
+        "city_name": "سيدي مخلوف"
+    },
+    {
+        "id_state": 3,
+        "city_name": "حاسي الدلاعة"
+    },
+    {
+        "id_state": 3,
+        "city_name": "حاسي الرمل"
+    },
+    {
+        "id_state": 3,
+        "city_name": "عين ماضي"
+    },
+    {
+        "id_state": 3,
+        "city_name": "الحويطة"
+    },
+    {
+        "id_state": 3,
+        "city_name": "الخنق"
+    },
+    {
+        "id_state": 3,
+        "city_name": "بن ناصر بن شهرة"
+    },
+    {
+        "id_state": 3,
+        "city_name": "أفلو"
+    },
+    {
+        "id_state": 4,
+        "city_name": "فكيرينة"
+    },
+    {
+        "id_state": 4,
+        "city_name": "الفجوج بوغرارة سعودي"
+    },
+    {
+        "id_state": 4,
+        "city_name": "عين فكرون"
+    },
+    {
+        "id_state": 4,
+        "city_name": "الرحية"
+    },
+    {
+        "id_state": 4,
+        "city_name": "مسكيانة"
+    },
+    {
+        "id_state": 4,
+        "city_name": "البلالة"
+    },
+    {
+        "id_state": 4,
+        "city_name": "بحير الشرقي"
+    },
+    {
+        "id_state": 4,
+        "city_name": "قصر الصباحي"
+    },
+    {
+        "id_state": 4,
+        "city_name": "سوق نعمان"
+    },
+    {
+        "id_state": 4,
+        "city_name": "أولاد زواي"
+    },
+    {
+        "id_state": 4,
+        "city_name": "أم البواقي"
+    },
+    {
+        "id_state": 4,
+        "city_name": "عين ببوش"
+    },
+    {
+        "id_state": 4,
+        "city_name": "عين الزيتون"
+    },
+    {
+        "id_state": 4,
+        "city_name": "بئر الشهداء"
+    },
+    {
+        "id_state": 4,
+        "city_name": "عين البيضاء"
+    },
+    {
+        "id_state": 4,
+        "city_name": "بريش"
+    },
+    {
+        "id_state": 4,
+        "city_name": "الزرق"
+    },
+    {
+        "id_state": 4,
+        "city_name": "عين مليلة"
+    },
+    {
+        "id_state": 4,
+        "city_name": "أولاد قاسم"
+    },
+    {
+        "id_state": 4,
+        "city_name": "أولاد حملة"
+    },
+    {
+        "id_state": 4,
+        "city_name": "العامرية"
+    },
+    {
+        "id_state": 4,
+        "city_name": "سيقوس"
+    },
+    {
+        "id_state": 4,
+        "city_name": "وادي نيني"
+    },
+    {
+        "id_state": 4,
+        "city_name": "عين الديس"
+    },
+    {
+        "id_state": 4,
+        "city_name": "الضلعة"
+    },
+    {
+        "id_state": 4,
+        "city_name": "الجازية"
+    },
+    {
+        "id_state": 4,
+        "city_name": "عين كرشة"
+    },
+    {
+        "id_state": 4,
+        "city_name": "الحرملية"
+    },
+    {
+        "id_state": 4,
+        "city_name": "هنشير تومغني"
+    },
+    {
+        "id_state": 5,
+        "city_name": "معافة"
+    },
+    {
+        "id_state": 5,
+        "city_name": "القصبات"
+    },
+    {
+        "id_state": 5,
+        "city_name": "تيمقاد"
+    },
+    {
+        "id_state": 5,
+        "city_name": "تاكسلانت"
+    },
+    {
+        "id_state": 5,
+        "city_name": "أولاد سي سليمان"
+    },
+    {
+        "id_state": 5,
+        "city_name": "لمسان"
+    },
+    {
+        "id_state": 5,
+        "city_name": "تالخمت"
+    },
+    {
+        "id_state": 5,
+        "city_name": "رأس العيون"
+    },
+    {
+        "id_state": 5,
+        "city_name": "الرحبات"
+    },
+    {
+        "id_state": 5,
+        "city_name": "أولاد سلام"
+    },
+    {
+        "id_state": 5,
+        "city_name": "القيقبة"
+    },
+    {
+        "id_state": 5,
+        "city_name": "ثنية العابد"
+    },
+    {
+        "id_state": 5,
+        "city_name": "باتنة"
+    },
+    {
+        "id_state": 5,
+        "city_name": "فسديس"
+    },
+    {
+        "id_state": 5,
+        "city_name": "وادي الشعبة"
+    },
+    {
+        "id_state": 5,
+        "city_name": "حيدوسة"
+    },
+    {
+        "id_state": 5,
+        "city_name": "قصر بلزمة"
+    },
+    {
+        "id_state": 5,
+        "city_name": "مروانة"
+    },
+    {
+        "id_state": 5,
+        "city_name": "وادي الماء"
+    },
+    {
+        "id_state": 5,
+        "city_name": "لازرو"
+    },
+    {
+        "id_state": 5,
+        "city_name": "سريانة"
+    },
+    {
+        "id_state": 5,
+        "city_name": "زانة البيضاء"
+    },
+    {
+        "id_state": 5,
+        "city_name": "منعة"
+    },
+    {
+        "id_state": 5,
+        "city_name": "تغرغار"
+    },
+    {
+        "id_state": 5,
+        "city_name": "عين ياقوت"
+    },
+    {
+        "id_state": 5,
+        "city_name": "بومية"
+    },
+    {
+        "id_state": 5,
+        "city_name": "جرمة"
+    },
+    {
+        "id_state": 5,
+        "city_name": "المعذر"
+    },
+    {
+        "id_state": 5,
+        "city_name": "عيون العصافير"
+    },
+    {
+        "id_state": 5,
+        "city_name": "تازولت"
+    },
+    {
+        "id_state": 5,
+        "city_name": "بومقر"
+    },
+    {
+        "id_state": 5,
+        "city_name": "نقاوس"
+    },
+    {
+        "id_state": 5,
+        "city_name": "سفيان"
+    },
+    {
+        "id_state": 5,
+        "city_name": "أريس"
+    },
+    {
+        "id_state": 5,
+        "city_name": "تيغانمين"
+    },
+    {
+        "id_state": 5,
+        "city_name": "عين جاسر"
+    },
+    {
+        "id_state": 5,
+        "city_name": "الحاسي"
+    },
+    {
+        "id_state": 5,
+        "city_name": "سقانة"
+    },
+    {
+        "id_state": 5,
+        "city_name": "تيلاطو"
+    },
+    {
+        "id_state": 5,
+        "city_name": "فم الطوب"
+    },
+    {
+        "id_state": 5,
+        "city_name": "إشمول"
+    },
+    {
+        "id_state": 5,
+        "city_name": "إينوغيسن"
+    },
+    {
+        "id_state": 5,
+        "city_name": "بوزينة"
+    },
+    {
+        "id_state": 5,
+        "city_name": "لارباع"
+    },
+    {
+        "id_state": 5,
+        "city_name": "بولهيلات"
+    },
+    {
+        "id_state": 5,
+        "city_name": "الشمرة"
+    },
+    {
+        "id_state": 5,
+        "city_name": "بريكة"
+    },
+    {
+        "id_state": 5,
+        "city_name": "بيطام"
+    },
+    {
+        "id_state": 5,
+        "city_name": "إمدوكل"
+    },
+    {
+        "id_state": 5,
+        "city_name": "عزيل عبد القادر"
+    },
+    {
+        "id_state": 5,
+        "city_name": "الجزار"
+    },
+    {
+        "id_state": 5,
+        "city_name": "أولاد عمار"
+    },
+    {
+        "id_state": 5,
+        "city_name": "غسيرة"
+    },
+    {
+        "id_state": 5,
+        "city_name": "كيمل"
+    },
+    {
+        "id_state": 5,
+        "city_name": "تكوت"
+    },
+    {
+        "id_state": 5,
+        "city_name": "عين التوتة"
+    },
+    {
+        "id_state": 5,
+        "city_name": "بني فضالة الحقانية"
+    },
+    {
+        "id_state": 5,
+        "city_name": "أولاد فاضل"
+    },
+    {
+        "id_state": 5,
+        "city_name": "أولاد عوف"
+    },
+    {
+        "id_state": 5,
+        "city_name": "شير"
+    },
+    {
+        "id_state": 5,
+        "city_name": "وادي الطاقة"
+    },
+    {
+        "id_state": 6,
+        "city_name": "سيدي عياد"
+    },
+    {
+        "id_state": 6,
+        "city_name": "برباشة"
+    },
+    {
+        "id_state": 6,
+        "city_name": "الفلاي"
+    },
+    {
+        "id_state": 6,
+        "city_name": "كنديرة"
+    },
+    {
+        "id_state": 6,
+        "city_name": "سيدي عيش"
+    },
+    {
+        "id_state": 6,
+        "city_name": "تيفرة"
+    },
+    {
+        "id_state": 6,
+        "city_name": "تينبدار"
+    },
+    {
+        "id_state": 6,
+        "city_name": "القصر"
+    },
+    {
+        "id_state": 6,
+        "city_name": "فناية الماثن"
+    },
+    {
+        "id_state": 6,
+        "city_name": "توجة"
+    },
+    {
+        "id_state": 6,
+        "city_name": "ذراع القايد"
+    },
+    {
+        "id_state": 6,
+        "city_name": "خراطة"
+    },
+    {
+        "id_state": 6,
+        "city_name": "بجاية"
+    },
+    {
+        "id_state": 6,
+        "city_name": "وادي غير"
+    },
+    {
+        "id_state": 6,
+        "city_name": "بني معوش"
+    },
+    {
+        "id_state": 6,
+        "city_name": "بني جليل"
+    },
+    {
+        "id_state": 6,
+        "city_name": "فرعون"
+    },
+    {
+        "id_state": 6,
+        "city_name": "سمعون"
+    },
+    {
+        "id_state": 6,
+        "city_name": "تيمزريت"
+    },
+    {
+        "id_state": 6,
+        "city_name": "مالبو"
+    },
+    {
+        "id_state": 6,
+        "city_name": "سوق لإثنين"
+    },
+    {
+        "id_state": 6,
+        "city_name": "تامريجت"
+    },
+    {
+        "id_state": 6,
+        "city_name": "بوخليفة"
+    },
+    {
+        "id_state": 6,
+        "city_name": "تالة حمزة"
+    },
+    {
+        "id_state": 6,
+        "city_name": "تيشي"
+    },
+    {
+        "id_state": 6,
+        "city_name": "أيت رزين"
+    },
+    {
+        "id_state": 6,
+        "city_name": "إغيل علي"
+    },
+    {
+        "id_state": 6,
+        "city_name": "أيت إسماعيل"
+    },
+    {
+        "id_state": 6,
+        "city_name": "درقينة"
+    },
+    {
+        "id_state": 6,
+        "city_name": "تاسكريوت"
+    },
+    {
+        "id_state": 6,
+        "city_name": "أوقاس"
+    },
+    {
+        "id_state": 6,
+        "city_name": "تيزي نبربر"
+    },
+    {
+        "id_state": 6,
+        "city_name": "أدكار"
+    },
+    {
+        "id_state": 6,
+        "city_name": "بني كسيلة"
+    },
+    {
+        "id_state": 6,
+        "city_name": "تاوريرت إغيل"
+    },
+    {
+        "id_state": 6,
+        "city_name": "أقبو"
+    },
+    {
+        "id_state": 6,
+        "city_name": "شلاطة"
+    },
+    {
+        "id_state": 6,
+        "city_name": "اغرم"
+    },
+    {
+        "id_state": 6,
+        "city_name": "تامقرة"
+    },
+    {
+        "id_state": 6,
+        "city_name": "أمالو"
+    },
+    {
+        "id_state": 6,
+        "city_name": "بوحمزة"
+    },
+    {
+        "id_state": 6,
+        "city_name": "مسيسنة"
+    },
+    {
+        "id_state": 6,
+        "city_name": "صدوق"
+    },
+    {
+        "id_state": 6,
+        "city_name": "بني مليكش"
+    },
+    {
+        "id_state": 6,
+        "city_name": "بو جليل"
+    },
+    {
+        "id_state": 6,
+        "city_name": "تازمالت"
+    },
+    {
+        "id_state": 6,
+        "city_name": "أكفادو"
+    },
+    {
+        "id_state": 6,
+        "city_name": "شميني"
+    },
+    {
+        "id_state": 6,
+        "city_name": "سوق اوفلا"
+    },
+    {
+        "id_state": 6,
+        "city_name": "طيبان"
+    },
+    {
+        "id_state": 6,
+        "city_name": "أوزلاقن"
+    },
+    {
+        "id_state": 6,
+        "city_name": "أميزور"
+    },
+    {
+        "id_state": 7,
+        "city_name": "الفيض"
+    },
+    {
+        "id_state": 7,
+        "city_name": "ليشانة"
+    },
+    {
+        "id_state": 7,
+        "city_name": "بوشقرون"
+    },
+    {
+        "id_state": 7,
+        "city_name": "مخادمة"
+    },
+    {
+        "id_state": 7,
+        "city_name": "جمورة"
+    },
+    {
+        "id_state": 7,
+        "city_name": "برانيس"
+    },
+    {
+        "id_state": 7,
+        "city_name": "الوطاية"
+    },
+    {
+        "id_state": 7,
+        "city_name": "القنطرة"
+    },
+    {
+        "id_state": 7,
+        "city_name": "خنقة سيدي ناجي"
+    },
+    {
+        "id_state": 7,
+        "city_name": "عين زعطوط"
+    },
+    {
+        "id_state": 7,
+        "city_name": "زريبة الوادي"
+    },
+    {
+        "id_state": 7,
+        "city_name": "المزيرعة"
+    },
+    {
+        "id_state": 7,
+        "city_name": "بسكرة"
+    },
+    {
+        "id_state": 7,
+        "city_name": "الحاجب"
+    },
+    {
+        "id_state": 7,
+        "city_name": "مليلي"
+    },
+    {
+        "id_state": 7,
+        "city_name": "فوغالة"
+    },
+    {
+        "id_state": 7,
+        "city_name": "الغروس"
+    },
+    {
+        "id_state": 7,
+        "city_name": "برج بن عزوز"
+    },
+    {
+        "id_state": 7,
+        "city_name": "أورلال"
+    },
+    {
+        "id_state": 7,
+        "city_name": "أوماش"
+    },
+    {
+        "id_state": 7,
+        "city_name": "عين الناقة"
+    },
+    {
+        "id_state": 7,
+        "city_name": "شتمة"
+    },
+    {
+        "id_state": 7,
+        "city_name": "الحوش"
+    },
+    {
+        "id_state": 7,
+        "city_name": "سيدي عقبة"
+    },
+    {
+        "id_state": 7,
+        "city_name": "مشونش"
+    },
+    {
+        "id_state": 7,
+        "city_name": "ليوة"
+    },
+    {
+        "id_state": 7,
+        "city_name": "طولقة"
+    },
+    {
+        "id_state": 8,
+        "city_name": "بشار"
+    },
+    {
+        "id_state": 8,
+        "city_name": "بوكايس"
+    },
+    {
+        "id_state": 8,
+        "city_name": "لحمر"
+    },
+    {
+        "id_state": 8,
+        "city_name": "موغل"
+    },
+    {
+        "id_state": 8,
+        "city_name": "المريجة"
+    },
+    {
+        "id_state": 8,
+        "city_name": "تاغيت"
+    },
+    {
+        "id_state": 8,
+        "city_name": "العبادلة"
+    },
+    {
+        "id_state": 8,
+        "city_name": "عرق فراج"
+    },
+    {
+        "id_state": 8,
+        "city_name": "مشرع هواري بومدين"
+    },
+    {
+        "id_state": 8,
+        "city_name": "بني ونيف"
+    },
+    {
+        "id_state": 8,
+        "city_name": "تبلبالة"
+    },
+    {
+        "id_state": 8,
+        "city_name": "القنادسة"
+    },
+    {
+        "id_state": 9,
+        "city_name": "بني مراد"
+    },
+    {
+        "id_state": 9,
+        "city_name": "اولاد سلامة"
+    },
+    {
+        "id_state": 9,
+        "city_name": "موزاية"
+    },
+    {
+        "id_state": 9,
+        "city_name": "حمام ملوان"
+    },
+    {
+        "id_state": 9,
+        "city_name": "بوقرة"
+    },
+    {
+        "id_state": 9,
+        "city_name": "صوحان"
+    },
+    {
+        "id_state": 9,
+        "city_name": "الأربعاء"
+    },
+    {
+        "id_state": 9,
+        "city_name": "الصومعة"
+    },
+    {
+        "id_state": 9,
+        "city_name": "قرواو"
+    },
+    {
+        "id_state": 9,
+        "city_name": "بوفاريك"
+    },
+    {
+        "id_state": 9,
+        "city_name": "مفتاح"
+    },
+    {
+        "id_state": 9,
+        "city_name": "الشفة"
+    },
+    {
+        "id_state": 9,
+        "city_name": "عين الرمانة"
+    },
+    {
+        "id_state": 9,
+        "city_name": "وادي جر"
+    },
+    {
+        "id_state": 9,
+        "city_name": "العفرون"
+    },
+    {
+        "id_state": 9,
+        "city_name": "أولاد يعيش"
+    },
+    {
+        "id_state": 9,
+        "city_name": "الشريعة"
+    },
+    {
+        "id_state": 9,
+        "city_name": "جبابرة"
+    },
+    {
+        "id_state": 9,
+        "city_name": "وادي العلايق"
+    },
+    {
+        "id_state": 9,
+        "city_name": "بن خليل"
+    },
+    {
+        "id_state": 9,
+        "city_name": "بني تامو"
+    },
+    {
+        "id_state": 9,
+        "city_name": "الشبلي"
+    },
+    {
+        "id_state": 9,
+        "city_name": "بوعينان"
+    },
+    {
+        "id_state": 9,
+        "city_name": "بوعرفة"
+    },
+    {
+        "id_state": 9,
+        "city_name": "البليدة"
+    },
+    {
+        "id_state": 10,
+        "city_name": "عين العلوي"
+    },
+    {
+        "id_state": 10,
+        "city_name": "الحجرة الزرقاء"
+    },
+    {
+        "id_state": 10,
+        "city_name": "مزدور"
+    },
+    {
+        "id_state": 10,
+        "city_name": "تاقديت"
+    },
+    {
+        "id_state": 10,
+        "city_name": "ريدان"
+    },
+    {
+        "id_state": 10,
+        "city_name": "المعمورة"
+    },
+    {
+        "id_state": 10,
+        "city_name": "الحاكمية"
+    },
+    {
+        "id_state": 10,
+        "city_name": "أهل القصر"
+    },
+    {
+        "id_state": 10,
+        "city_name": "ديرة"
+    },
+    {
+        "id_state": 10,
+        "city_name": "الدشمية"
+    },
+    {
+        "id_state": 10,
+        "city_name": "بشلول"
+    },
+    {
+        "id_state": 10,
+        "city_name": "آث  منصور"
+    },
+    {
+        "id_state": 10,
+        "city_name": "سحاريج"
+    },
+    {
+        "id_state": 10,
+        "city_name": "العجيبة"
+    },
+    {
+        "id_state": 10,
+        "city_name": "الأسنام"
+    },
+    {
+        "id_state": 10,
+        "city_name": "أمشدالة"
+    },
+    {
+        "id_state": 10,
+        "city_name": "برج أوخريص"
+    },
+    {
+        "id_state": 10,
+        "city_name": "سور الغزلان"
+    },
+    {
+        "id_state": 10,
+        "city_name": "حنيف"
+    },
+    {
+        "id_state": 10,
+        "city_name": "شرفة"
+    },
+    {
+        "id_state": 10,
+        "city_name": "أولاد راشد"
+    },
+    {
+        "id_state": 10,
+        "city_name": "عين الحجر"
+    },
+    {
+        "id_state": 10,
+        "city_name": "أغبالو"
+    },
+    {
+        "id_state": 10,
+        "city_name": "روراوة"
+    },
+    {
+        "id_state": 10,
+        "city_name": "الخبوزية"
+    },
+    {
+        "id_state": 10,
+        "city_name": "بئر غبالو"
+    },
+    {
+        "id_state": 10,
+        "city_name": "البويرة"
+    },
+    {
+        "id_state": 10,
+        "city_name": "عين الترك"
+    },
+    {
+        "id_state": 10,
+        "city_name": "أيت لعزيز"
+    },
+    {
+        "id_state": 10,
+        "city_name": "عين بسام"
+    },
+    {
+        "id_state": 10,
+        "city_name": "المقراني"
+    },
+    {
+        "id_state": 10,
+        "city_name": "سوق الخميس"
+    },
+    {
+        "id_state": 10,
+        "city_name": "أعمر"
+    },
+    {
+        "id_state": 10,
+        "city_name": "جباحية"
+    },
+    {
+        "id_state": 10,
+        "city_name": "الهاشمية"
+    },
+    {
+        "id_state": 10,
+        "city_name": "حيزر"
+    },
+    {
+        "id_state": 10,
+        "city_name": "تاغزوت"
+    },
+    {
+        "id_state": 10,
+        "city_name": "بودربالة"
+    },
+    {
+        "id_state": 10,
+        "city_name": "بوكرم"
+    },
+    {
+        "id_state": 10,
+        "city_name": "قرومة"
+    },
+    {
+        "id_state": 10,
+        "city_name": "الأخضرية"
+    },
+    {
+        "id_state": 10,
+        "city_name": "معلة"
+    },
+    {
+        "id_state": 10,
+        "city_name": "قادرية"
+    },
+    {
+        "id_state": 10,
+        "city_name": "زبربر"
+    },
+    {
+        "id_state": 10,
+        "city_name": "وادي البردي"
+    },
+    {
+        "id_state": 11,
+        "city_name": "تاظروك"
+    },
+    {
+        "id_state": 11,
+        "city_name": "ابلسة"
+    },
+    {
+        "id_state": 11,
+        "city_name": "تمنراست"
+    },
+    {
+        "id_state": 11,
+        "city_name": "عين امقل"
+    },
+    {
+        "id_state": 11,
+        "city_name": "أدلس"
+    },
+    {
+        "id_state": 12,
+        "city_name": "الحويجبات"
+    },
+    {
+        "id_state": 12,
+        "city_name": "العوينات"
+    },
+    {
+        "id_state": 12,
+        "city_name": "فركان"
+    },
+    {
+        "id_state": 12,
+        "city_name": "نقرين"
+    },
+    {
+        "id_state": 12,
+        "city_name": "بئر مقدم"
+    },
+    {
+        "id_state": 12,
+        "city_name": "بئر الذهب"
+    },
+    {
+        "id_state": 12,
+        "city_name": "صفصاف الوسرى"
+    },
+    {
+        "id_state": 12,
+        "city_name": "قريقر"
+    },
+    {
+        "id_state": 12,
+        "city_name": "بكارية"
+    },
+    {
+        "id_state": 12,
+        "city_name": "بولحاف الدير"
+    },
+    {
+        "id_state": 12,
+        "city_name": "أم علي"
+    },
+    {
+        "id_state": 12,
+        "city_name": "بوخضرة"
+    },
+    {
+        "id_state": 12,
+        "city_name": "الماء الابيض"
+    },
+    {
+        "id_state": 12,
+        "city_name": "الونزة"
+    },
+    {
+        "id_state": 12,
+        "city_name": "المريج"
+    },
+    {
+        "id_state": 12,
+        "city_name": "عين الزرقاء"
+    },
+    {
+        "id_state": 12,
+        "city_name": "سطح قنطيس"
+    },
+    {
+        "id_state": 12,
+        "city_name": "العقلة"
+    },
+    {
+        "id_state": 12,
+        "city_name": "المزرعة"
+    },
+    {
+        "id_state": 12,
+        "city_name": "بجن"
+    },
+    {
+        "id_state": 12,
+        "city_name": "مرسط"
+    },
+    {
+        "id_state": 12,
+        "city_name": "ثليجان"
+    },
+    {
+        "id_state": 12,
+        "city_name": "الشريعة"
+    },
+    {
+        "id_state": 12,
+        "city_name": "العقلة المالحة"
+    },
+    {
+        "id_state": 12,
+        "city_name": "بئر العاتر"
+    },
+    {
+        "id_state": 12,
+        "city_name": "تبسة"
+    },
+    {
+        "id_state": 12,
+        "city_name": "الحمامات"
+    },
+    {
+        "id_state": 12,
+        "city_name": "الكويف"
+    },
+    {
+        "id_state": 13,
+        "city_name": "باب العسة"
+    },
+    {
+        "id_state": 13,
+        "city_name": "تيرني بني هديل"
+    },
+    {
+        "id_state": 13,
+        "city_name": "منصورة"
+    },
+    {
+        "id_state": 13,
+        "city_name": "بني مستر"
+    },
+    {
+        "id_state": 13,
+        "city_name": "عين غرابة"
+    },
+    {
+        "id_state": 13,
+        "city_name": "شتوان"
+    },
+    {
+        "id_state": 13,
+        "city_name": "عمير"
+    },
+    {
+        "id_state": 13,
+        "city_name": "عين فزة"
+    },
+    {
+        "id_state": 13,
+        "city_name": "هنين"
+    },
+    {
+        "id_state": 13,
+        "city_name": "بني خلاد"
+    },
+    {
+        "id_state": 13,
+        "city_name": "سيدي الجيلالي"
+    },
+    {
+        "id_state": 13,
+        "city_name": "البويهي"
+    },
+    {
+        "id_state": 13,
+        "city_name": "ندرومة"
+    },
+    {
+        "id_state": 13,
+        "city_name": "مسيردة الفواقة"
+    },
+    {
+        "id_state": 13,
+        "city_name": "مرسى بن مهيدي"
+    },
+    {
+        "id_state": 13,
+        "city_name": "سيدي مجاهد"
+    },
+    {
+        "id_state": 13,
+        "city_name": "بني بوسعيد"
+    },
+    {
+        "id_state": 13,
+        "city_name": "سبدو"
+    },
+    {
+        "id_state": 13,
+        "city_name": "القور"
+    },
+    {
+        "id_state": 13,
+        "city_name": "العريشة"
+    },
+    {
+        "id_state": 13,
+        "city_name": "بوحلو"
+    },
+    {
+        "id_state": 13,
+        "city_name": "مغنية"
+    },
+    {
+        "id_state": 13,
+        "city_name": "حمام بوغرارة"
+    },
+    {
+        "id_state": 13,
+        "city_name": "زناتة"
+    },
+    {
+        "id_state": 13,
+        "city_name": "أولاد رياح"
+    },
+    {
+        "id_state": 13,
+        "city_name": "الحناية"
+    },
+    {
+        "id_state": 13,
+        "city_name": "سيدي العبدلي"
+    },
+    {
+        "id_state": 13,
+        "city_name": "سوق الثلاثاء"
+    },
+    {
+        "id_state": 13,
+        "city_name": "بن سكران"
+    },
+    {
+        "id_state": 13,
+        "city_name": "فلاوسن"
+    },
+    {
+        "id_state": 13,
+        "city_name": "عين الكبيرة"
+    },
+    {
+        "id_state": 13,
+        "city_name": "عين فتاح"
+    },
+    {
+        "id_state": 13,
+        "city_name": "تلمسان"
+    },
+    {
+        "id_state": 13,
+        "city_name": "عين النحالة"
+    },
+    {
+        "id_state": 13,
+        "city_name": "عين تالوت"
+    },
+    {
+        "id_state": 13,
+        "city_name": "عين يوسف"
+    },
+    {
+        "id_state": 13,
+        "city_name": "بني وارسوس"
+    },
+    {
+        "id_state": 13,
+        "city_name": "الفحول"
+    },
+    {
+        "id_state": 13,
+        "city_name": "الرمشي"
+    },
+    {
+        "id_state": 13,
+        "city_name": "سبعة شيوخ"
+    },
+    {
+        "id_state": 13,
+        "city_name": "السواني"
+    },
+    {
+        "id_state": 13,
+        "city_name": "صبرة"
+    },
+    {
+        "id_state": 13,
+        "city_name": "دار يغمراسن"
+    },
+    {
+        "id_state": 13,
+        "city_name": "الغزوات"
+    },
+    {
+        "id_state": 13,
+        "city_name": "السواحلية"
+    },
+    {
+        "id_state": 13,
+        "city_name": "تيانت"
+    },
+    {
+        "id_state": 13,
+        "city_name": "بني صميل"
+    },
+    {
+        "id_state": 13,
+        "city_name": "وادي الخضر"
+    },
+    {
+        "id_state": 13,
+        "city_name": "أولاد ميمون"
+    },
+    {
+        "id_state": 13,
+        "city_name": "بني بهدل"
+    },
+    {
+        "id_state": 13,
+        "city_name": "بني سنوس"
+    },
+    {
+        "id_state": 13,
+        "city_name": "العزايل"
+    },
+    {
+        "id_state": 13,
+        "city_name": "جبالة"
+    },
+    {
+        "id_state": 14,
+        "city_name": "مهدية"
+    },
+    {
+        "id_state": 14,
+        "city_name": "عين دزاريت"
+    },
+    {
+        "id_state": 14,
+        "city_name": "السبعين"
+    },
+    {
+        "id_state": 14,
+        "city_name": "الفايجة"
+    },
+    {
+        "id_state": 14,
+        "city_name": "سي عبد الغني"
+    },
+    {
+        "id_state": 14,
+        "city_name": "السوقر"
+    },
+    {
+        "id_state": 14,
+        "city_name": "توسنينة"
+    },
+    {
+        "id_state": 14,
+        "city_name": "مغيلة"
+    },
+    {
+        "id_state": 14,
+        "city_name": "السبت"
+    },
+    {
+        "id_state": 14,
+        "city_name": "سيدي حسني"
+    },
+    {
+        "id_state": 14,
+        "city_name": "عين الحديد"
+    },
+    {
+        "id_state": 14,
+        "city_name": "فرندة"
+    },
+    {
+        "id_state": 14,
+        "city_name": "تخمرت"
+    },
+    {
+        "id_state": 14,
+        "city_name": "عين كرمس"
+    },
+    {
+        "id_state": 14,
+        "city_name": "جبيلات الرصفاء"
+    },
+    {
+        "id_state": 14,
+        "city_name": "مادنة"
+    },
+    {
+        "id_state": 14,
+        "city_name": "مدريسة"
+    },
+    {
+        "id_state": 14,
+        "city_name": "سيدي عبد الرحمن"
+    },
+    {
+        "id_state": 14,
+        "city_name": "قصر الشلالة"
+    },
+    {
+        "id_state": 14,
+        "city_name": "قرطوفة"
+    },
+    {
+        "id_state": 14,
+        "city_name": "سرغين"
+    },
+    {
+        "id_state": 14,
+        "city_name": "زمالة  الأمير عبد القادر"
+    },
+    {
+        "id_state": 14,
+        "city_name": "وادي ليلي"
+    },
+    {
+        "id_state": 14,
+        "city_name": "سيدي علي ملال"
+    },
+    {
+        "id_state": 14,
+        "city_name": "جيلالي بن عمار"
+    },
+    {
+        "id_state": 14,
+        "city_name": "مشرع الصفا"
+    },
+    {
+        "id_state": 14,
+        "city_name": "تاقدمت"
+    },
+    {
+        "id_state": 14,
+        "city_name": "بوقرة"
+    },
+    {
+        "id_state": 14,
+        "city_name": "حمادية"
+    },
+    {
+        "id_state": 14,
+        "city_name": "الرشايقة"
+    },
+    {
+        "id_state": 14,
+        "city_name": "تيدة"
+    },
+    {
+        "id_state": 14,
+        "city_name": "الناظورة"
+    },
+    {
+        "id_state": 14,
+        "city_name": "تيارت"
+    },
+    {
+        "id_state": 14,
+        "city_name": "مدروسة"
+    },
+    {
+        "id_state": 14,
+        "city_name": "ملاكو"
+    },
+    {
+        "id_state": 14,
+        "city_name": "سيدي بختي"
+    },
+    {
+        "id_state": 14,
+        "city_name": "عين الذهب"
+    },
+    {
+        "id_state": 14,
+        "city_name": "شحيمة"
+    },
+    {
+        "id_state": 14,
+        "city_name": "النعيمة"
+    },
+    {
+        "id_state": 14,
+        "city_name": "عين بوشقيف"
+    },
+    {
+        "id_state": 14,
+        "city_name": "دحموني"
+    },
+    {
+        "id_state": 14,
+        "city_name": "الرحوية"
+    },
+    {
+        "id_state": 15,
+        "city_name": "ميزرانـــة"
+    },
+    {
+        "id_state": 15,
+        "city_name": "إيجــار"
+    },
+    {
+        "id_state": 15,
+        "city_name": "بني دوالة"
+    },
+    {
+        "id_state": 15,
+        "city_name": "بني زيكــي"
+    },
+    {
+        "id_state": 15,
+        "city_name": "إيلولة أومـــالو"
+    },
+    {
+        "id_state": 15,
+        "city_name": "أقني قغران"
+    },
+    {
+        "id_state": 15,
+        "city_name": "أيت بــوادو"
+    },
+    {
+        "id_state": 15,
+        "city_name": "واضية"
+    },
+    {
+        "id_state": 15,
+        "city_name": "تيزي نثلاثة"
+    },
+    {
+        "id_state": 15,
+        "city_name": "أغريب"
+    },
+    {
+        "id_state": 15,
+        "city_name": "أيت شافع"
+    },
+    {
+        "id_state": 15,
+        "city_name": "أقرو"
+    },
+    {
+        "id_state": 15,
+        "city_name": "أزفون"
+    },
+    {
+        "id_state": 15,
+        "city_name": "إفليـــسن"
+    },
+    {
+        "id_state": 15,
+        "city_name": "تيقـزيرت"
+    },
+    {
+        "id_state": 15,
+        "city_name": "أسي يوسف"
+    },
+    {
+        "id_state": 15,
+        "city_name": "بوغني"
+    },
+    {
+        "id_state": 15,
+        "city_name": "بونوح"
+    },
+    {
+        "id_state": 15,
+        "city_name": "مشطراس"
+    },
+    {
+        "id_state": 15,
+        "city_name": "ذراع بن خدة"
+    },
+    {
+        "id_state": 15,
+        "city_name": "سيدي نعمان"
+    },
+    {
+        "id_state": 15,
+        "city_name": "تادمايت"
+    },
+    {
+        "id_state": 15,
+        "city_name": "تيرمتين"
+    },
+    {
+        "id_state": 15,
+        "city_name": "أيت بومهدي"
+    },
+    {
+        "id_state": 15,
+        "city_name": "أيت تودرت"
+    },
+    {
+        "id_state": 15,
+        "city_name": "بني عيسي"
+    },
+    {
+        "id_state": 15,
+        "city_name": "واسيف"
+    },
+    {
+        "id_state": 15,
+        "city_name": "أيت خليلي"
+    },
+    {
+        "id_state": 15,
+        "city_name": "مقــلع"
+    },
+    {
+        "id_state": 15,
+        "city_name": "صوامـــع"
+    },
+    {
+        "id_state": 15,
+        "city_name": "بني يني"
+    },
+    {
+        "id_state": 15,
+        "city_name": "إبودرارن"
+    },
+    {
+        "id_state": 15,
+        "city_name": "تيزي وزو"
+    },
+    {
+        "id_state": 15,
+        "city_name": "أبي يوسف"
+    },
+    {
+        "id_state": 15,
+        "city_name": "عين الحمام"
+    },
+    {
+        "id_state": 15,
+        "city_name": "أيت يحيى"
+    },
+    {
+        "id_state": 15,
+        "city_name": "اقبيل"
+    },
+    {
+        "id_state": 15,
+        "city_name": "بوجيمة"
+    },
+    {
+        "id_state": 15,
+        "city_name": "ماكودة"
+    },
+    {
+        "id_state": 15,
+        "city_name": "عين الزاوية"
+    },
+    {
+        "id_state": 15,
+        "city_name": "أيت يحي موسى"
+    },
+    {
+        "id_state": 15,
+        "city_name": "ذراع الميزان"
+    },
+    {
+        "id_state": 15,
+        "city_name": "فريقات"
+    },
+    {
+        "id_state": 15,
+        "city_name": "مكيرة"
+    },
+    {
+        "id_state": 15,
+        "city_name": "تيزي غنيف"
+    },
+    {
+        "id_state": 15,
+        "city_name": "يطــافن"
+    },
+    {
+        "id_state": 15,
+        "city_name": "إيلـيــلتـن"
+    },
+    {
+        "id_state": 15,
+        "city_name": "إمســوحال"
+    },
+    {
+        "id_state": 15,
+        "city_name": "عزازقة"
+    },
+    {
+        "id_state": 15,
+        "city_name": "فريحة"
+    },
+    {
+        "id_state": 15,
+        "city_name": "إيفيغاء"
+    },
+    {
+        "id_state": 15,
+        "city_name": "إعــكورن"
+    },
+    {
+        "id_state": 15,
+        "city_name": "زكري"
+    },
+    {
+        "id_state": 15,
+        "city_name": "أيت عقـواشة"
+    },
+    {
+        "id_state": 15,
+        "city_name": "إيرجـــن"
+    },
+    {
+        "id_state": 15,
+        "city_name": "الأربعــاء ناث إيراثن"
+    },
+    {
+        "id_state": 15,
+        "city_name": "أيت  أومالو"
+    },
+    {
+        "id_state": 15,
+        "city_name": "تيزي راشد"
+    },
+    {
+        "id_state": 15,
+        "city_name": "أيت عيسى ميمون"
+    },
+    {
+        "id_state": 15,
+        "city_name": "واقنون"
+    },
+    {
+        "id_state": 15,
+        "city_name": "تيمـيزار"
+    },
+    {
+        "id_state": 15,
+        "city_name": "معـــاتقة"
+    },
+    {
+        "id_state": 15,
+        "city_name": "سوق الإثنين"
+    },
+    {
+        "id_state": 15,
+        "city_name": "أيت محمود"
+    },
+    {
+        "id_state": 15,
+        "city_name": "بنــــي زمنزار"
+    },
+    {
+        "id_state": 15,
+        "city_name": "إفــرحــونان"
+    },
+    {
+        "id_state": 15,
+        "city_name": "بوزقــن"
+    },
+    {
+        "id_state": 16,
+        "city_name": "حسين داي"
+    },
+    {
+        "id_state": 16,
+        "city_name": "الكاليتوس"
+    },
+    {
+        "id_state": 16,
+        "city_name": "سيدي موسى"
+    },
+    {
+        "id_state": 16,
+        "city_name": "القبة"
+    },
+    {
+        "id_state": 16,
+        "city_name": "محمد بلوزداد"
+    },
+    {
+        "id_state": 16,
+        "city_name": "عين طاية"
+    },
+    {
+        "id_state": 16,
+        "city_name": "باب الزوار"
+    },
+    {
+        "id_state": 16,
+        "city_name": "برج الكيفان"
+    },
+    {
+        "id_state": 16,
+        "city_name": "الدار البيضاء"
+    },
+    {
+        "id_state": 16,
+        "city_name": "المرسى"
+    },
+    {
+        "id_state": 16,
+        "city_name": "المحمدية"
+    },
+    {
+        "id_state": 16,
+        "city_name": "بئر توتة"
+    },
+    {
+        "id_state": 16,
+        "city_name": "اولاد شبل"
+    },
+    {
+        "id_state": 16,
+        "city_name": "تسالة المرجة"
+    },
+    {
+        "id_state": 16,
+        "city_name": "هراوة"
+    },
+    {
+        "id_state": 16,
+        "city_name": "رغاية"
+    },
+    {
+        "id_state": 16,
+        "city_name": "الرويبة"
+    },
+    {
+        "id_state": 16,
+        "city_name": "المعالمة"
+    },
+    {
+        "id_state": 16,
+        "city_name": "الرحمانية"
+    },
+    {
+        "id_state": 16,
+        "city_name": "سويدانية"
+    },
+    {
+        "id_state": 16,
+        "city_name": "سطاوالي"
+    },
+    {
+        "id_state": 16,
+        "city_name": "زرالدة"
+    },
+    {
+        "id_state": 16,
+        "city_name": "بابا حسن"
+    },
+    {
+        "id_state": 16,
+        "city_name": "الدويرة"
+    },
+    {
+        "id_state": 16,
+        "city_name": "الدرارية"
+    },
+    {
+        "id_state": 16,
+        "city_name": "العاشور"
+    },
+    {
+        "id_state": 16,
+        "city_name": "الخرايسية"
+    },
+    {
+        "id_state": 16,
+        "city_name": "عين بنيان"
+    },
+    {
+        "id_state": 16,
+        "city_name": "الشراقة"
+    },
+    {
+        "id_state": 16,
+        "city_name": "دالي ابراهيم"
+    },
+    {
+        "id_state": 16,
+        "city_name": "الحمامات"
+    },
+    {
+        "id_state": 16,
+        "city_name": "اولاد فايت"
+    },
+    {
+        "id_state": 16,
+        "city_name": "الجزائر الوسطى"
+    },
+    {
+        "id_state": 16,
+        "city_name": "المدنية"
+    },
+    {
+        "id_state": 16,
+        "city_name": "المرادية"
+    },
+    {
+        "id_state": 16,
+        "city_name": "سيدي امحمد"
+    },
+    {
+        "id_state": 16,
+        "city_name": "السحاولة"
+    },
+    {
+        "id_state": 16,
+        "city_name": "بولوغين بن زيري"
+    },
+    {
+        "id_state": 16,
+        "city_name": "القصبة"
+    },
+    {
+        "id_state": 16,
+        "city_name": "وادي قريش"
+    },
+    {
+        "id_state": 16,
+        "city_name": "الرايس حميدو"
+    },
+    {
+        "id_state": 16,
+        "city_name": "بئر مراد رايس"
+    },
+    {
+        "id_state": 16,
+        "city_name": "بئر خادم"
+    },
+    {
+        "id_state": 16,
+        "city_name": "جسر قسنطينة"
+    },
+    {
+        "id_state": 16,
+        "city_name": "حيدرة"
+    },
+    {
+        "id_state": 16,
+        "city_name": "المغارية"
+    },
+    {
+        "id_state": 16,
+        "city_name": "ابن عكنون"
+    },
+    {
+        "id_state": 16,
+        "city_name": "بني مسوس"
+    },
+    {
+        "id_state": 16,
+        "city_name": "بوزريعة"
+    },
+    {
+        "id_state": 16,
+        "city_name": "الابيار"
+    },
+    {
+        "id_state": 16,
+        "city_name": "باش جراح"
+    },
+    {
+        "id_state": 16,
+        "city_name": "بوروبة"
+    },
+    {
+        "id_state": 16,
+        "city_name": "الحراش"
+    },
+    {
+        "id_state": 16,
+        "city_name": "وادي السمار"
+    },
+    {
+        "id_state": 16,
+        "city_name": "براقي"
+    },
+    {
+        "id_state": 16,
+        "city_name": "برج البحري"
+    },
+    {
+        "id_state": 16,
+        "city_name": "باب الوادي"
+    },
+    {
+        "id_state": 17,
+        "city_name": "حاسي العش"
+    },
+    {
+        "id_state": 17,
+        "city_name": "عين الإبل"
+    },
+    {
+        "id_state": 17,
+        "city_name": "القديد"
+    },
+    {
+        "id_state": 17,
+        "city_name": "الشارف"
+    },
+    {
+        "id_state": 17,
+        "city_name": "بن يعقوب"
+    },
+    {
+        "id_state": 17,
+        "city_name": "سيدي بايزيد"
+    },
+    {
+        "id_state": 17,
+        "city_name": "مليليحة"
+    },
+    {
+        "id_state": 17,
+        "city_name": "دار الشيوخ"
+    },
+    {
+        "id_state": 17,
+        "city_name": "تعظميت"
+    },
+    {
+        "id_state": 17,
+        "city_name": "حد الصحاري"
+    },
+    {
+        "id_state": 17,
+        "city_name": "بويرة الأحداب"
+    },
+    {
+        "id_state": 17,
+        "city_name": "عين فقه"
+    },
+    {
+        "id_state": 17,
+        "city_name": "سيدي لعجال"
+    },
+    {
+        "id_state": 17,
+        "city_name": "حاسي فدول"
+    },
+    {
+        "id_state": 17,
+        "city_name": "الخميس"
+    },
+    {
+        "id_state": 17,
+        "city_name": "سلمانة"
+    },
+    {
+        "id_state": 17,
+        "city_name": "سد الرحال"
+    },
+    {
+        "id_state": 17,
+        "city_name": "مسعد"
+    },
+    {
+        "id_state": 17,
+        "city_name": "قطارة"
+    },
+    {
+        "id_state": 17,
+        "city_name": "دلدول"
+    },
+    {
+        "id_state": 17,
+        "city_name": "زكار"
+    },
+    {
+        "id_state": 17,
+        "city_name": "دويس"
+    },
+    {
+        "id_state": 17,
+        "city_name": "الادريسية"
+    },
+    {
+        "id_state": 17,
+        "city_name": "عين الشهداء"
+    },
+    {
+        "id_state": 17,
+        "city_name": "الجلفة"
+    },
+    {
+        "id_state": 17,
+        "city_name": "بيرين"
+    },
+    {
+        "id_state": 17,
+        "city_name": "أم العظام"
+    },
+    {
+        "id_state": 17,
+        "city_name": "فيض البطمة"
+    },
+    {
+        "id_state": 17,
+        "city_name": "عمورة"
+    },
+    {
+        "id_state": 17,
+        "city_name": "زعفران"
+    },
+    {
+        "id_state": 17,
+        "city_name": "قرنيني"
+    },
+    {
+        "id_state": 17,
+        "city_name": "عين وسارة"
+    },
+    {
+        "id_state": 17,
+        "city_name": "بنهار"
+    },
+    {
+        "id_state": 17,
+        "city_name": "عين معبد"
+    },
+    {
+        "id_state": 17,
+        "city_name": "حاسي بحبح"
+    },
+    {
+        "id_state": 17,
+        "city_name": "مجبارة"
+    },
+    {
+        "id_state": 18,
+        "city_name": "جيجل"
+    },
+    {
+        "id_state": 18,
+        "city_name": "العوانة"
+    },
+    {
+        "id_state": 18,
+        "city_name": "سلمى بن زيادة"
+    },
+    {
+        "id_state": 18,
+        "city_name": "أراقن سويسي"
+    },
+    {
+        "id_state": 18,
+        "city_name": "بوسيف أولاد عسكر"
+    },
+    {
+        "id_state": 18,
+        "city_name": "زيامة منصورية"
+    },
+    {
+        "id_state": 18,
+        "city_name": "الشحنة"
+    },
+    {
+        "id_state": 18,
+        "city_name": "الامير عبد القادر"
+    },
+    {
+        "id_state": 18,
+        "city_name": "وجانة"
+    },
+    {
+        "id_state": 18,
+        "city_name": "الطاهير"
+    },
+    {
+        "id_state": 18,
+        "city_name": "الشقفة"
+    },
+    {
+        "id_state": 18,
+        "city_name": "القنار نشفي"
+    },
+    {
+        "id_state": 18,
+        "city_name": "سيدي عبد العزيز"
+    },
+    {
+        "id_state": 18,
+        "city_name": "الميلية"
+    },
+    {
+        "id_state": 18,
+        "city_name": "أولاد يحيى خدروش"
+    },
+    {
+        "id_state": 18,
+        "city_name": "أولاد رابح"
+    },
+    {
+        "id_state": 18,
+        "city_name": "سيدي معروف"
+    },
+    {
+        "id_state": 18,
+        "city_name": "غبالة"
+    },
+    {
+        "id_state": 18,
+        "city_name": "السطارة"
+    },
+    {
+        "id_state": 18,
+        "city_name": "بوراوي بلهادف"
+    },
+    {
+        "id_state": 18,
+        "city_name": "العنصر"
+    },
+    {
+        "id_state": 18,
+        "city_name": "خيري واد عجول"
+    },
+    {
+        "id_state": 18,
+        "city_name": "جيملة"
+    },
+    {
+        "id_state": 18,
+        "city_name": "قاوس"
+    },
+    {
+        "id_state": 18,
+        "city_name": "تاكسنة"
+    },
+    {
+        "id_state": 18,
+        "city_name": "برج الطهر"
+    },
+    {
+        "id_state": 18,
+        "city_name": "بودريعة بني  ياجيس"
+    },
+    {
+        "id_state": 18,
+        "city_name": "الجمعة بني حبيبي"
+    },
+    {
+        "id_state": 19,
+        "city_name": "الرصفة"
+    },
+    {
+        "id_state": 19,
+        "city_name": "واد البارد"
+    },
+    {
+        "id_state": 19,
+        "city_name": "تيزي نبشار"
+    },
+    {
+        "id_state": 19,
+        "city_name": "مزلوق"
+    },
+    {
+        "id_state": 19,
+        "city_name": "قلال"
+    },
+    {
+        "id_state": 19,
+        "city_name": "قصر الابطال"
+    },
+    {
+        "id_state": 19,
+        "city_name": "أولاد سي أحمد"
+    },
+    {
+        "id_state": 19,
+        "city_name": "أيت نوال مزادة"
+    },
+    {
+        "id_state": 19,
+        "city_name": "ايت تيزي"
+    },
+    {
+        "id_state": 19,
+        "city_name": "بوعنداس"
+    },
+    {
+        "id_state": 19,
+        "city_name": "بوسلام"
+    },
+    {
+        "id_state": 19,
+        "city_name": "حمام السخنة"
+    },
+    {
+        "id_state": 19,
+        "city_name": "الطاية"
+    },
+    {
+        "id_state": 19,
+        "city_name": "التلة"
+    },
+    {
+        "id_state": 19,
+        "city_name": "عين ولمان"
+    },
+    {
+        "id_state": 19,
+        "city_name": "بوطالب"
+    },
+    {
+        "id_state": 19,
+        "city_name": "الحامة"
+    },
+    {
+        "id_state": 19,
+        "city_name": "أولاد تبان"
+    },
+    {
+        "id_state": 19,
+        "city_name": "عموشة"
+    },
+    {
+        "id_state": 19,
+        "city_name": "صالح باي"
+    },
+    {
+        "id_state": 19,
+        "city_name": "عين أزال"
+    },
+    {
+        "id_state": 19,
+        "city_name": "عين الحجر"
+    },
+    {
+        "id_state": 19,
+        "city_name": "بيضاء برج"
+    },
+    {
+        "id_state": 19,
+        "city_name": "بئر حدادة"
+    },
+    {
+        "id_state": 19,
+        "city_name": "قنزات"
+    },
+    {
+        "id_state": 19,
+        "city_name": "حربيل"
+    },
+    {
+        "id_state": 19,
+        "city_name": "عين الروى"
+    },
+    {
+        "id_state": 19,
+        "city_name": "بني وسين"
+    },
+    {
+        "id_state": 19,
+        "city_name": "أوريسيا"
+    },
+    {
+        "id_state": 19,
+        "city_name": "بوقاعة"
+    },
+    {
+        "id_state": 19,
+        "city_name": "ذراع قبيلة"
+    },
+    {
+        "id_state": 19,
+        "city_name": "حمام قرقور"
+    },
+    {
+        "id_state": 19,
+        "city_name": "سطيف"
+    },
+    {
+        "id_state": 19,
+        "city_name": "عين الكبيرة"
+    },
+    {
+        "id_state": 19,
+        "city_name": "الدهامشة"
+    },
+    {
+        "id_state": 19,
+        "city_name": "أولاد عدوان"
+    },
+    {
+        "id_state": 19,
+        "city_name": "عين السبت"
+    },
+    {
+        "id_state": 19,
+        "city_name": "بني عزيز"
+    },
+    {
+        "id_state": 19,
+        "city_name": "معاوية"
+    },
+    {
+        "id_state": 19,
+        "city_name": "بلاعة"
+    },
+    {
+        "id_state": 19,
+        "city_name": "بئر العرش"
+    },
+    {
+        "id_state": 19,
+        "city_name": "الولجة"
+    },
+    {
+        "id_state": 19,
+        "city_name": "تاشودة"
+    },
+    {
+        "id_state": 19,
+        "city_name": "تالة إيفاسن"
+    },
+    {
+        "id_state": 19,
+        "city_name": "سرج الغول"
+    },
+    {
+        "id_state": 19,
+        "city_name": "قجال"
+    },
+    {
+        "id_state": 19,
+        "city_name": "أولاد صابر"
+    },
+    {
+        "id_state": 19,
+        "city_name": "بازر سكرة"
+    },
+    {
+        "id_state": 19,
+        "city_name": "العلمة"
+    },
+    {
+        "id_state": 19,
+        "city_name": "قلتة زرقاء"
+    },
+    {
+        "id_state": 19,
+        "city_name": "بني فودة"
+    },
+    {
+        "id_state": 19,
+        "city_name": "جميلة"
+    },
+    {
+        "id_state": 19,
+        "city_name": "عين لقراج"
+    },
+    {
+        "id_state": 19,
+        "city_name": "بني شبانة"
+    },
+    {
+        "id_state": 19,
+        "city_name": "بني ورتيلان"
+    },
+    {
+        "id_state": 19,
+        "city_name": "بني موحلي"
+    },
+    {
+        "id_state": 19,
+        "city_name": "عين عباسة"
+    },
+    {
+        "id_state": 19,
+        "city_name": "عين أرنات"
+    },
+    {
+        "id_state": 19,
+        "city_name": "بابور"
+    },
+    {
+        "id_state": 19,
+        "city_name": "ماوكلان"
+    },
+    {
+        "id_state": 20,
+        "city_name": "سعيدة"
+    },
+    {
+        "id_state": 20,
+        "city_name": "تيرسين"
+    },
+    {
+        "id_state": 20,
+        "city_name": "أولاد إبراهيم"
+    },
+    {
+        "id_state": 20,
+        "city_name": "عين السلطان"
+    },
+    {
+        "id_state": 20,
+        "city_name": "المعمورة"
+    },
+    {
+        "id_state": 20,
+        "city_name": "الحساسنة"
+    },
+    {
+        "id_state": 20,
+        "city_name": "عين السخونة"
+    },
+    {
+        "id_state": 20,
+        "city_name": "سيدي بوبكر"
+    },
+    {
+        "id_state": 20,
+        "city_name": "أولاد خالد"
+    },
+    {
+        "id_state": 20,
+        "city_name": "هونت"
+    },
+    {
+        "id_state": 20,
+        "city_name": "يوب"
+    },
+    {
+        "id_state": 20,
+        "city_name": "دوي ثابت"
+    },
+    {
+        "id_state": 20,
+        "city_name": "سيدي احمد"
+    },
+    {
+        "id_state": 20,
+        "city_name": "مولاي العربي"
+    },
+    {
+        "id_state": 20,
+        "city_name": "عين الحجر"
+    },
+    {
+        "id_state": 20,
+        "city_name": "سيدي عمر"
+    },
+    {
+        "id_state": 21,
+        "city_name": "عين بوزيان"
+    },
+    {
+        "id_state": 21,
+        "city_name": "صالح بو الشعور"
+    },
+    {
+        "id_state": 21,
+        "city_name": "الحدائق"
+    },
+    {
+        "id_state": 21,
+        "city_name": "زردازة"
+    },
+    {
+        "id_state": 21,
+        "city_name": "أولاد حبابة"
+    },
+    {
+        "id_state": 21,
+        "city_name": "بني ولبان"
+    },
+    {
+        "id_state": 21,
+        "city_name": "سيدي مزغيش"
+    },
+    {
+        "id_state": 21,
+        "city_name": "بني بشير"
+    },
+    {
+        "id_state": 21,
+        "city_name": "رمضان جمال"
+    },
+    {
+        "id_state": 21,
+        "city_name": "بين الويدان"
+    },
+    {
+        "id_state": 21,
+        "city_name": "مجاز الدشيش"
+    },
+    {
+        "id_state": 21,
+        "city_name": "تمالوس"
+    },
+    {
+        "id_state": 21,
+        "city_name": "عين قشرة"
+    },
+    {
+        "id_state": 21,
+        "city_name": "الولجة بولبلوط"
+    },
+    {
+        "id_state": 21,
+        "city_name": "أم الطوب"
+    },
+    {
+        "id_state": 21,
+        "city_name": "الغدير"
+    },
+    {
+        "id_state": 21,
+        "city_name": "الكركرة"
+    },
+    {
+        "id_state": 21,
+        "city_name": "الحروش"
+    },
+    {
+        "id_state": 21,
+        "city_name": "الزيتونة"
+    },
+    {
+        "id_state": 21,
+        "city_name": "أولاد عطية"
+    },
+    {
+        "id_state": 21,
+        "city_name": "وادي الزهور"
+    },
+    {
+        "id_state": 21,
+        "city_name": "القل"
+    },
+    {
+        "id_state": 21,
+        "city_name": "الشرايع"
+    },
+    {
+        "id_state": 21,
+        "city_name": "بني زيد"
+    },
+    {
+        "id_state": 21,
+        "city_name": "خناق مايو"
+    },
+    {
+        "id_state": 21,
+        "city_name": "المرسى"
+    },
+    {
+        "id_state": 21,
+        "city_name": "بن عزوز"
+    },
+    {
+        "id_state": 21,
+        "city_name": "بكوش لخضر"
+    },
+    {
+        "id_state": 21,
+        "city_name": "السبت"
+    },
+    {
+        "id_state": 21,
+        "city_name": "عين شرشار"
+    },
+    {
+        "id_state": 21,
+        "city_name": "عزابة"
+    },
+    {
+        "id_state": 21,
+        "city_name": "بوشطاطة"
+    },
+    {
+        "id_state": 21,
+        "city_name": "فلفلة"
+    },
+    {
+        "id_state": 21,
+        "city_name": "حمادي كرومة"
+    },
+    {
+        "id_state": 21,
+        "city_name": "سكيكدة"
+    },
+    {
+        "id_state": 21,
+        "city_name": "عين زويت"
+    },
+    {
+        "id_state": 21,
+        "city_name": "جندل سعدي محمد"
+    },
+    {
+        "id_state": 21,
+        "city_name": "قنواع"
+    },
+    {
+        "id_state": 22,
+        "city_name": "سيدي علي بن يوب"
+    },
+    {
+        "id_state": 22,
+        "city_name": "مولاي سليسن"
+    },
+    {
+        "id_state": 22,
+        "city_name": "الحصيبة"
+    },
+    {
+        "id_state": 22,
+        "city_name": "عين تندمين"
+    },
+    {
+        "id_state": 22,
+        "city_name": "تنيرة"
+    },
+    {
+        "id_state": 22,
+        "city_name": "وادي سفيون"
+    },
+    {
+        "id_state": 22,
+        "city_name": "حاسي دحو"
+    },
+    {
+        "id_state": 22,
+        "city_name": "وادي تاوريرة"
+    },
+    {
+        "id_state": 22,
+        "city_name": "بن عشيبة شلية"
+    },
+    {
+        "id_state": 22,
+        "city_name": "سيدي يعقوب"
+    },
+    {
+        "id_state": 22,
+        "city_name": "سيدي لحسن"
+    },
+    {
+        "id_state": 22,
+        "city_name": "سيدي خالد"
+    },
+    {
+        "id_state": 22,
+        "city_name": "طابية"
+    },
+    {
+        "id_state": 22,
+        "city_name": "سيدي ابراهيم"
+    },
+    {
+        "id_state": 22,
+        "city_name": "العمارنة"
+    },
+    {
+        "id_state": 22,
+        "city_name": "بوخنفيس"
+    },
+    {
+        "id_state": 22,
+        "city_name": "حاسي زهانة"
+    },
+    {
+        "id_state": 22,
+        "city_name": "شيطوان البلايلة"
+    },
+    {
+        "id_state": 22,
+        "city_name": "بن باديس"
+    },
+    {
+        "id_state": 22,
+        "city_name": "بضرابين المقراني"
+    },
+    {
+        "id_state": 22,
+        "city_name": "سفيزف"
+    },
+    {
+        "id_state": 22,
+        "city_name": "مسيد"
+    },
+    {
+        "id_state": 22,
+        "city_name": "بوجبهة البرج"
+    },
+    {
+        "id_state": 22,
+        "city_name": "عين أدن"
+    },
+    {
+        "id_state": 22,
+        "city_name": "سيدي حمادوش"
+    },
+    {
+        "id_state": 22,
+        "city_name": "سيدي شعيب"
+    },
+    {
+        "id_state": 22,
+        "city_name": "مكدرة"
+    },
+    {
+        "id_state": 22,
+        "city_name": "عين البرد"
+    },
+    {
+        "id_state": 22,
+        "city_name": "رجم دموش"
+    },
+    {
+        "id_state": 22,
+        "city_name": "راس الماء"
+    },
+    {
+        "id_state": 22,
+        "city_name": "وادي السبع"
+    },
+    {
+        "id_state": 22,
+        "city_name": "مرحوم"
+    },
+    {
+        "id_state": 22,
+        "city_name": "سيدي بلعباس"
+    },
+    {
+        "id_state": 22,
+        "city_name": "عين الثريد"
+    },
+    {
+        "id_state": 22,
+        "city_name": "السهالة الثورة"
+    },
+    {
+        "id_state": 22,
+        "city_name": "تسالة"
+    },
+    {
+        "id_state": 22,
+        "city_name": "بلعربي"
+    },
+    {
+        "id_state": 22,
+        "city_name": "مصطفى بن ابراهيم"
+    },
+    {
+        "id_state": 22,
+        "city_name": "تلموني"
+    },
+    {
+        "id_state": 22,
+        "city_name": "زروالة"
+    },
+    {
+        "id_state": 22,
+        "city_name": "الضاية"
+    },
+    {
+        "id_state": 22,
+        "city_name": "مزاورو"
+    },
+    {
+        "id_state": 22,
+        "city_name": "تغاليمت"
+    },
+    {
+        "id_state": 22,
+        "city_name": "تلاغ"
+    },
+    {
+        "id_state": 22,
+        "city_name": "عين قادة"
+    },
+    {
+        "id_state": 22,
+        "city_name": "لمطار"
+    },
+    {
+        "id_state": 22,
+        "city_name": "سيدي علي بوسيدي"
+    },
+    {
+        "id_state": 22,
+        "city_name": "سيدي دحو الزاير"
+    },
+    {
+        "id_state": 22,
+        "city_name": "بئر الحمام"
+    },
+    {
+        "id_state": 22,
+        "city_name": "مرين"
+    },
+    {
+        "id_state": 22,
+        "city_name": "تفسور"
+    },
+    {
+        "id_state": 22,
+        "city_name": "تاودموت"
+    },
+    {
+        "id_state": 23,
+        "city_name": "عنابة"
+    },
+    {
+        "id_state": 23,
+        "city_name": "سرايدي"
+    },
+    {
+        "id_state": 23,
+        "city_name": "برحال"
+    },
+    {
+        "id_state": 23,
+        "city_name": "واد العنب"
+    },
+    {
+        "id_state": 23,
+        "city_name": "الحجار"
+    },
+    {
+        "id_state": 23,
+        "city_name": "سيدي عمار"
+    },
+    {
+        "id_state": 23,
+        "city_name": "البوني"
+    },
+    {
+        "id_state": 23,
+        "city_name": "عين الباردة"
+    },
+    {
+        "id_state": 23,
+        "city_name": "الشرفة"
+    },
+    {
+        "id_state": 23,
+        "city_name": "العلمة"
+    },
+    {
+        "id_state": 23,
+        "city_name": "التريعات"
+    },
+    {
+        "id_state": 23,
+        "city_name": "شطايبي"
+    },
+    {
+        "id_state": 24,
+        "city_name": "نشماية"
+    },
+    {
+        "id_state": 24,
+        "city_name": "بوحمدان"
+    },
+    {
+        "id_state": 24,
+        "city_name": "حمام دباغ"
+    },
+    {
+        "id_state": 24,
+        "city_name": "الركنية"
+    },
+    {
+        "id_state": 24,
+        "city_name": "الدهوارة"
+    },
+    {
+        "id_state": 24,
+        "city_name": "حمام النبايل"
+    },
+    {
+        "id_state": 24,
+        "city_name": "قالمة"
+    },
+    {
+        "id_state": 24,
+        "city_name": "بومهرة أحمد"
+    },
+    {
+        "id_state": 24,
+        "city_name": "عين بن بيضاء"
+    },
+    {
+        "id_state": 24,
+        "city_name": "بوشقوف"
+    },
+    {
+        "id_state": 24,
+        "city_name": "مجاز الصفاء"
+    },
+    {
+        "id_state": 24,
+        "city_name": "وادي فراغة"
+    },
+    {
+        "id_state": 24,
+        "city_name": "بوعاتي محمود"
+    },
+    {
+        "id_state": 24,
+        "city_name": "الفجوج"
+    },
+    {
+        "id_state": 24,
+        "city_name": "هيليوبوليس"
+    },
+    {
+        "id_state": 24,
+        "city_name": "مجاز عمار"
+    },
+    {
+        "id_state": 24,
+        "city_name": "هواري بومدين"
+    },
+    {
+        "id_state": 24,
+        "city_name": "رأس العقبة"
+    },
+    {
+        "id_state": 24,
+        "city_name": "سلاوة عنونة"
+    },
+    {
+        "id_state": 24,
+        "city_name": "جبالة الخميسي"
+    },
+    {
+        "id_state": 24,
+        "city_name": "برج صباط"
+    },
+    {
+        "id_state": 24,
+        "city_name": "وادي الزناتي"
+    },
+    {
+        "id_state": 24,
+        "city_name": "عين رقادة"
+    },
+    {
+        "id_state": 24,
+        "city_name": "عين العربي"
+    },
+    {
+        "id_state": 24,
+        "city_name": "عين مخلوف"
+    },
+    {
+        "id_state": 24,
+        "city_name": "تاملوكة"
+    },
+    {
+        "id_state": 24,
+        "city_name": "عين صندل"
+    },
+    {
+        "id_state": 24,
+        "city_name": "بوحشانة"
+    },
+    {
+        "id_state": 24,
+        "city_name": "لخزارة"
+    },
+    {
+        "id_state": 24,
+        "city_name": "بلخير"
+    },
+    {
+        "id_state": 24,
+        "city_name": "بني مزلين"
+    },
+    {
+        "id_state": 24,
+        "city_name": "قلعة بوصبع"
+    },
+    {
+        "id_state": 24,
+        "city_name": "وادي الشحم"
+    },
+    {
+        "id_state": 24,
+        "city_name": "بن جراح"
+    },
+    {
+        "id_state": 25,
+        "city_name": "ديدوش مراد"
+    },
+    {
+        "id_state": 25,
+        "city_name": "حامة بوزيان"
+    },
+    {
+        "id_state": 25,
+        "city_name": "بني حميدان"
+    },
+    {
+        "id_state": 25,
+        "city_name": "زيغود يوسف"
+    },
+    {
+        "id_state": 25,
+        "city_name": "عين السمارة"
+    },
+    {
+        "id_state": 25,
+        "city_name": "الخروب"
+    },
+    {
+        "id_state": 25,
+        "city_name": "أولاد رحمون"
+    },
+    {
+        "id_state": 25,
+        "city_name": "عين عبيد"
+    },
+    {
+        "id_state": 25,
+        "city_name": "أبن باديس الهرية"
+    },
+    {
+        "id_state": 25,
+        "city_name": "ابن زياد"
+    },
+    {
+        "id_state": 25,
+        "city_name": "بوجريو مسعود"
+    },
+    {
+        "id_state": 25,
+        "city_name": "قسنطينة"
+    },
+    {
+        "id_state": 26,
+        "city_name": "أولاد هلال"
+    },
+    {
+        "id_state": 26,
+        "city_name": "السواقي"
+    },
+    {
+        "id_state": 26,
+        "city_name": "قصر البخاري"
+    },
+    {
+        "id_state": 26,
+        "city_name": "مفاتحة"
+    },
+    {
+        "id_state": 26,
+        "city_name": "السانق"
+    },
+    {
+        "id_state": 26,
+        "city_name": "العزيزية"
+    },
+    {
+        "id_state": 26,
+        "city_name": "مغراوة"
+    },
+    {
+        "id_state": 26,
+        "city_name": "ميهوب"
+    },
+    {
+        "id_state": 26,
+        "city_name": "بوعيش"
+    },
+    {
+        "id_state": 26,
+        "city_name": "بوغزول"
+    },
+    {
+        "id_state": 26,
+        "city_name": "الشهبونية"
+    },
+    {
+        "id_state": 26,
+        "city_name": "حناشة"
+    },
+    {
+        "id_state": 26,
+        "city_name": "عوامري"
+    },
+    {
+        "id_state": 26,
+        "city_name": "وادي حربيل"
+    },
+    {
+        "id_state": 26,
+        "city_name": "بني سليمان"
+    },
+    {
+        "id_state": 26,
+        "city_name": "بوعيشون"
+    },
+    {
+        "id_state": 26,
+        "city_name": "أولاد بوعشرة"
+    },
+    {
+        "id_state": 26,
+        "city_name": "سي المحجوب"
+    },
+    {
+        "id_state": 26,
+        "city_name": "بوسكن"
+    },
+    {
+        "id_state": 26,
+        "city_name": "سيدي الربيع"
+    },
+    {
+        "id_state": 26,
+        "city_name": "البرواقية"
+    },
+    {
+        "id_state": 26,
+        "city_name": "أولاد دايد"
+    },
+    {
+        "id_state": 26,
+        "city_name": "الربعية"
+    },
+    {
+        "id_state": 26,
+        "city_name": "مجبر"
+    },
+    {
+        "id_state": 26,
+        "city_name": "ثلاث دوائر"
+    },
+    {
+        "id_state": 26,
+        "city_name": "الزبيرية"
+    },
+    {
+        "id_state": 26,
+        "city_name": "العيساوية"
+    },
+    {
+        "id_state": 26,
+        "city_name": "الحوضان"
+    },
+    {
+        "id_state": 26,
+        "city_name": "مزغنة"
+    },
+    {
+        "id_state": 26,
+        "city_name": "تابلاط"
+    },
+    {
+        "id_state": 26,
+        "city_name": "بوغار"
+    },
+    {
+        "id_state": 26,
+        "city_name": "سغوان"
+    },
+    {
+        "id_state": 26,
+        "city_name": "ذراع السمار"
+    },
+    {
+        "id_state": 26,
+        "city_name": "المدية"
+    },
+    {
+        "id_state": 26,
+        "city_name": "تمسقيدة"
+    },
+    {
+        "id_state": 26,
+        "city_name": "بن شكاو"
+    },
+    {
+        "id_state": 26,
+        "city_name": "الحمدانية"
+    },
+    {
+        "id_state": 26,
+        "city_name": "وزرة"
+    },
+    {
+        "id_state": 26,
+        "city_name": "تيزي مهدي"
+    },
+    {
+        "id_state": 26,
+        "city_name": "عين بوسيف"
+    },
+    {
+        "id_state": 26,
+        "city_name": "العوينات"
+    },
+    {
+        "id_state": 26,
+        "city_name": "الكاف الاخضر"
+    },
+    {
+        "id_state": 26,
+        "city_name": "أولاد امعرف"
+    },
+    {
+        "id_state": 26,
+        "city_name": "سيدي دامد"
+    },
+    {
+        "id_state": 26,
+        "city_name": "بعطة"
+    },
+    {
+        "id_state": 26,
+        "city_name": "العمارية"
+    },
+    {
+        "id_state": 26,
+        "city_name": "أولاد إبراهيم"
+    },
+    {
+        "id_state": 26,
+        "city_name": "بئر بن عابد"
+    },
+    {
+        "id_state": 26,
+        "city_name": "القلب الكبير"
+    },
+    {
+        "id_state": 26,
+        "city_name": "سدراية"
+    },
+    {
+        "id_state": 26,
+        "city_name": "عين اقصير"
+    },
+    {
+        "id_state": 26,
+        "city_name": "شلالة العذاورة"
+    },
+    {
+        "id_state": 26,
+        "city_name": "شنيقل"
+    },
+    {
+        "id_state": 26,
+        "city_name": "تفراوت"
+    },
+    {
+        "id_state": 26,
+        "city_name": "بوشراحيل"
+    },
+    {
+        "id_state": 26,
+        "city_name": "خمس جوامع"
+    },
+    {
+        "id_state": 26,
+        "city_name": "سيدي نعمان"
+    },
+    {
+        "id_state": 26,
+        "city_name": "عزيز"
+    },
+    {
+        "id_state": 26,
+        "city_name": "دراق"
+    },
+    {
+        "id_state": 26,
+        "city_name": "أم الجليل"
+    },
+    {
+        "id_state": 26,
+        "city_name": "جواب"
+    },
+    {
+        "id_state": 26,
+        "city_name": "سيدي زهار"
+    },
+    {
+        "id_state": 26,
+        "city_name": "سيدي زيان"
+    },
+    {
+        "id_state": 26,
+        "city_name": "أولاد عنتر"
+    },
+    {
+        "id_state": 27,
+        "city_name": "فرناقة"
+    },
+    {
+        "id_state": 27,
+        "city_name": "وادي الخير"
+    },
+    {
+        "id_state": 27,
+        "city_name": "الحسيان (بني ياحي"
+    },
+    {
+        "id_state": 27,
+        "city_name": "حاسي ماماش"
+    },
+    {
+        "id_state": 27,
+        "city_name": "مزغران"
+    },
+    {
+        "id_state": 27,
+        "city_name": "ستيدية"
+    },
+    {
+        "id_state": 27,
+        "city_name": "عين تادلس"
+    },
+    {
+        "id_state": 27,
+        "city_name": "سيدي بلعطار"
+    },
+    {
+        "id_state": 27,
+        "city_name": "سور"
+    },
+    {
+        "id_state": 27,
+        "city_name": "عين بودينار"
+    },
+    {
+        "id_state": 27,
+        "city_name": "خير الدين"
+    },
+    {
+        "id_state": 27,
+        "city_name": "صيادة"
+    },
+    {
+        "id_state": 27,
+        "city_name": "سيدي علي"
+    },
+    {
+        "id_state": 27,
+        "city_name": "تزقايت"
+    },
+    {
+        "id_state": 27,
+        "city_name": "بن عبد المالك رمضان"
+    },
+    {
+        "id_state": 27,
+        "city_name": "مستغانم"
+    },
+    {
+        "id_state": 27,
+        "city_name": "حجاج"
+    },
+    {
+        "id_state": 27,
+        "city_name": "سيدي لخضر"
+    },
+    {
+        "id_state": 27,
+        "city_name": "عشعاشة"
+    },
+    {
+        "id_state": 27,
+        "city_name": "خضرة"
+    },
+    {
+        "id_state": 27,
+        "city_name": "نكمارية"
+    },
+    {
+        "id_state": 27,
+        "city_name": "أولاد بوغالم"
+    },
+    {
+        "id_state": 27,
+        "city_name": "بوقيراط"
+    },
+    {
+        "id_state": 27,
+        "city_name": "صفصاف"
+    },
+    {
+        "id_state": 27,
+        "city_name": "سيرات"
+    },
+    {
+        "id_state": 27,
+        "city_name": "السوافلية"
+    },
+    {
+        "id_state": 27,
+        "city_name": "عين سيدي الشريف"
+    },
+    {
+        "id_state": 27,
+        "city_name": "منصورة"
+    },
+    {
+        "id_state": 27,
+        "city_name": "ماسرة"
+    },
+    {
+        "id_state": 27,
+        "city_name": "الطواهرية"
+    },
+    {
+        "id_state": 27,
+        "city_name": "عين نويسي"
+    },
+    {
+        "id_state": 27,
+        "city_name": "أولاد مع الله"
+    },
+    {
+        "id_state": 28,
+        "city_name": "شلال"
+    },
+    {
+        "id_state": 28,
+        "city_name": "أولاد ماضي"
+    },
+    {
+        "id_state": 28,
+        "city_name": "خطوطي سد الجير"
+    },
+    {
+        "id_state": 28,
+        "city_name": "بلعايبة"
+    },
+    {
+        "id_state": 28,
+        "city_name": "برهوم"
+    },
+    {
+        "id_state": 28,
+        "city_name": "دهاهنة"
+    },
+    {
+        "id_state": 28,
+        "city_name": "مقرة"
+    },
+    {
+        "id_state": 28,
+        "city_name": "بني يلمان"
+    },
+    {
+        "id_state": 28,
+        "city_name": "بوطي السايح"
+    },
+    {
+        "id_state": 28,
+        "city_name": "سيدي عيسى"
+    },
+    {
+        "id_state": 28,
+        "city_name": "عين الحجل"
+    },
+    {
+        "id_state": 28,
+        "city_name": "سيدي هجرس"
+    },
+    {
+        "id_state": 28,
+        "city_name": "بوسعادة"
+    },
+    {
+        "id_state": 28,
+        "city_name": "الهامل"
+    },
+    {
+        "id_state": 28,
+        "city_name": "ولتام"
+    },
+    {
+        "id_state": 28,
+        "city_name": "بن زوه"
+    },
+    {
+        "id_state": 28,
+        "city_name": "أولاد سيدي ابراهيم"
+    },
+    {
+        "id_state": 28,
+        "city_name": "سيدي عامر"
+    },
+    {
+        "id_state": 28,
+        "city_name": "تامسة"
+    },
+    {
+        "id_state": 28,
+        "city_name": "بن سرور"
+    },
+    {
+        "id_state": 28,
+        "city_name": "محمد بوضياف"
+    },
+    {
+        "id_state": 28,
+        "city_name": "أولاد سليمان"
+    },
+    {
+        "id_state": 28,
+        "city_name": "زرزور"
+    },
+    {
+        "id_state": 28,
+        "city_name": "عين الملح"
+    },
+    {
+        "id_state": 28,
+        "city_name": "عين فارس"
+    },
+    {
+        "id_state": 28,
+        "city_name": "عين الريش"
+    },
+    {
+        "id_state": 28,
+        "city_name": "بئر فضة"
+    },
+    {
+        "id_state": 28,
+        "city_name": "سيدي امحمد"
+    },
+    {
+        "id_state": 28,
+        "city_name": "امجدل"
+    },
+    {
+        "id_state": 28,
+        "city_name": "مناعة"
+    },
+    {
+        "id_state": 28,
+        "city_name": "جبل مساعد"
+    },
+    {
+        "id_state": 28,
+        "city_name": "سليم"
+    },
+    {
+        "id_state": 28,
+        "city_name": "المسيلة"
+    },
+    {
+        "id_state": 28,
+        "city_name": "حمام الضلعة"
+    },
+    {
+        "id_state": 28,
+        "city_name": "ونوغة"
+    },
+    {
+        "id_state": 28,
+        "city_name": "أولاد منصور"
+    },
+    {
+        "id_state": 28,
+        "city_name": "تارمونت"
+    },
+    {
+        "id_state": 28,
+        "city_name": "المعاضيد"
+    },
+    {
+        "id_state": 28,
+        "city_name": "المطارفة"
+    },
+    {
+        "id_state": 28,
+        "city_name": "معاريف"
+    },
+    {
+        "id_state": 28,
+        "city_name": "أولاد دراج"
+    },
+    {
+        "id_state": 28,
+        "city_name": "السوامع"
+    },
+    {
+        "id_state": 28,
+        "city_name": "الحوامد"
+    },
+    {
+        "id_state": 28,
+        "city_name": "خبانة"
+    },
+    {
+        "id_state": 28,
+        "city_name": "مسيف"
+    },
+    {
+        "id_state": 28,
+        "city_name": "عين الخضراء"
+    },
+    {
+        "id_state": 28,
+        "city_name": "أولاد عدي لقبالة"
+    },
+    {
+        "id_state": 29,
+        "city_name": "وادي الأبطال"
+    },
+    {
+        "id_state": 29,
+        "city_name": "سيدي عبد المومن"
+    },
+    {
+        "id_state": 29,
+        "city_name": "سجرارة"
+    },
+    {
+        "id_state": 29,
+        "city_name": "المحمدية"
+    },
+    {
+        "id_state": 29,
+        "city_name": "تيغنيف"
+    },
+    {
+        "id_state": 29,
+        "city_name": "مقطع الدوز"
+    },
+    {
+        "id_state": 29,
+        "city_name": "فراقيق"
+    },
+    {
+        "id_state": 29,
+        "city_name": "الغمري"
+    },
+    {
+        "id_state": 29,
+        "city_name": "زهانة"
+    },
+    {
+        "id_state": 29,
+        "city_name": "القعدة"
+    },
+    {
+        "id_state": 29,
+        "city_name": "رأس عين عميروش"
+    },
+    {
+        "id_state": 29,
+        "city_name": "عقاز"
+    },
+    {
+        "id_state": 29,
+        "city_name": "العلايمية"
+    },
+    {
+        "id_state": 29,
+        "city_name": "سيق"
+    },
+    {
+        "id_state": 29,
+        "city_name": "الشرفاء"
+    },
+    {
+        "id_state": 29,
+        "city_name": "بوهني"
+    },
+    {
+        "id_state": 29,
+        "city_name": "المأمونية"
+    },
+    {
+        "id_state": 29,
+        "city_name": "القطنة"
+    },
+    {
+        "id_state": 29,
+        "city_name": "عين فارس"
+    },
+    {
+        "id_state": 29,
+        "city_name": "غروس"
+    },
+    {
+        "id_state": 29,
+        "city_name": "بنيان"
+    },
+    {
+        "id_state": 29,
+        "city_name": "عوف"
+    },
+    {
+        "id_state": 29,
+        "city_name": "قرجوم"
+    },
+    {
+        "id_state": 29,
+        "city_name": "عين أفرص"
+    },
+    {
+        "id_state": 29,
+        "city_name": "عين فكان"
+    },
+    {
+        "id_state": 29,
+        "city_name": "خلوية"
+    },
+    {
+        "id_state": 29,
+        "city_name": "المنور"
+    },
+    {
+        "id_state": 29,
+        "city_name": "البرج"
+    },
+    {
+        "id_state": 29,
+        "city_name": "سيدي بوسعيد"
+    },
+    {
+        "id_state": 29,
+        "city_name": "المطمور"
+    },
+    {
+        "id_state": 29,
+        "city_name": "سيدي قادة"
+    },
+    {
+        "id_state": 29,
+        "city_name": "ماقضة"
+    },
+    {
+        "id_state": 29,
+        "city_name": "معسكر"
+    },
+    {
+        "id_state": 29,
+        "city_name": "بوحنيفية"
+    },
+    {
+        "id_state": 29,
+        "city_name": "غريس"
+    },
+    {
+        "id_state": 29,
+        "city_name": "حسين"
+    },
+    {
+        "id_state": 29,
+        "city_name": "القرط"
+    },
+    {
+        "id_state": 29,
+        "city_name": "فروحة"
+    },
+    {
+        "id_state": 29,
+        "city_name": "تيزي"
+    },
+    {
+        "id_state": 29,
+        "city_name": "السهايلية"
+    },
+    {
+        "id_state": 29,
+        "city_name": "ماوسة"
+    },
+    {
+        "id_state": 29,
+        "city_name": "سيدي عبد الجبار"
+    },
+    {
+        "id_state": 29,
+        "city_name": "الحشم"
+    },
+    {
+        "id_state": 29,
+        "city_name": "نسمط"
+    },
+    {
+        "id_state": 29,
+        "city_name": "زلامطة"
+    },
+    {
+        "id_state": 29,
+        "city_name": "عين فراح"
+    },
+    {
+        "id_state": 29,
+        "city_name": "وادي التاغية"
+    },
+    {
+        "id_state": 30,
+        "city_name": "ورقلة"
+    },
+    {
+        "id_state": 30,
+        "city_name": "حاسي مسعود"
+    },
+    {
+        "id_state": 30,
+        "city_name": "عين البيضاء"
+    },
+    {
+        "id_state": 30,
+        "city_name": "حاسي بن عبد الله"
+    },
+    {
+        "id_state": 30,
+        "city_name": "سيدي خويلد"
+    },
+    {
+        "id_state": 30,
+        "city_name": "البرمة"
+    },
+    {
+        "id_state": 30,
+        "city_name": "الرويسات"
+    },
+    {
+        "id_state": 30,
+        "city_name": "انقوسة"
+    },
+    {
+        "id_state": 31,
+        "city_name": "سيدي الشحمي"
+    },
+    {
+        "id_state": 31,
+        "city_name": "حاسي مفسوخ"
+    },
+    {
+        "id_state": 31,
+        "city_name": "بئر الجير"
+    },
+    {
+        "id_state": 31,
+        "city_name": "حاسي بن عقبة"
+    },
+    {
+        "id_state": 31,
+        "city_name": "قديل"
+    },
+    {
+        "id_state": 31,
+        "city_name": "حاسي بونيف"
+    },
+    {
+        "id_state": 31,
+        "city_name": "الكرمة"
+    },
+    {
+        "id_state": 31,
+        "city_name": "السانية"
+    },
+    {
+        "id_state": 31,
+        "city_name": "بن فريحة"
+    },
+    {
+        "id_state": 31,
+        "city_name": "أرزيو"
+    },
+    {
+        "id_state": 31,
+        "city_name": "سيدي بن يبقى"
+    },
+    {
+        "id_state": 31,
+        "city_name": "عين البية"
+    },
+    {
+        "id_state": 31,
+        "city_name": "بطيوة"
+    },
+    {
+        "id_state": 31,
+        "city_name": "مرسى الحجاج"
+    },
+    {
+        "id_state": 31,
+        "city_name": "عين الترك"
+    },
+    {
+        "id_state": 31,
+        "city_name": "وهران"
+    },
+    {
+        "id_state": 31,
+        "city_name": "العنصر"
+    },
+    {
+        "id_state": 31,
+        "city_name": "المرسى الكبير"
+    },
+    {
+        "id_state": 31,
+        "city_name": "بوفاتيس"
+    },
+    {
+        "id_state": 31,
+        "city_name": "البراية"
+    },
+    {
+        "id_state": 31,
+        "city_name": "وادي تليلات"
+    },
+    {
+        "id_state": 31,
+        "city_name": "عين الكرمة"
+    },
+    {
+        "id_state": 31,
+        "city_name": "بوتليليس"
+    },
+    {
+        "id_state": 31,
+        "city_name": "مسرغين"
+    },
+    {
+        "id_state": 31,
+        "city_name": "بوسفر"
+    },
+    {
+        "id_state": 31,
+        "city_name": "طفراوي"
+    },
+    {
+        "id_state": 32,
+        "city_name": "عين العراك"
+    },
+    {
+        "id_state": 32,
+        "city_name": "كراكدة"
+    },
+    {
+        "id_state": 32,
+        "city_name": "سيدي سليمان"
+    },
+    {
+        "id_state": 32,
+        "city_name": "سيدي عامر"
+    },
+    {
+        "id_state": 32,
+        "city_name": "بوعلام"
+    },
+    {
+        "id_state": 32,
+        "city_name": "البنود"
+    },
+    {
+        "id_state": 32,
+        "city_name": "بوقطب"
+    },
+    {
+        "id_state": 32,
+        "city_name": "الخيثر"
+    },
+    {
+        "id_state": 32,
+        "city_name": "توسمولين"
+    },
+    {
+        "id_state": 32,
+        "city_name": "سيدي طيفور"
+    },
+    {
+        "id_state": 32,
+        "city_name": "ستيتن"
+    },
+    {
+        "id_state": 32,
+        "city_name": "البيض"
+    },
+    {
+        "id_state": 32,
+        "city_name": "رقاصة"
+    },
+    {
+        "id_state": 32,
+        "city_name": "المحرة"
+    },
+    {
+        "id_state": 32,
+        "city_name": "الكاف الأحمر"
+    },
+    {
+        "id_state": 32,
+        "city_name": "بريزينة"
+    },
+    {
+        "id_state": 32,
+        "city_name": "الغاسول"
+    },
+    {
+        "id_state": 32,
+        "city_name": "الأبيض سيدي الشيخ"
+    },
+    {
+        "id_state": 32,
+        "city_name": "بوسمغون"
+    },
+    {
+        "id_state": 32,
+        "city_name": "الشقيق"
+    },
+    {
+        "id_state": 32,
+        "city_name": "شلالة"
+    },
+    {
+        "id_state": 32,
+        "city_name": "اربوات"
+    },
+    {
+        "id_state": 33,
+        "city_name": "برج عمر إدريس"
+    },
+    {
+        "id_state": 33,
+        "city_name": "دبداب"
+    },
+    {
+        "id_state": 33,
+        "city_name": "إن أمناس"
+    },
+    {
+        "id_state": 33,
+        "city_name": "إيليزي"
+    },
+    {
+        "id_state": 34,
+        "city_name": "الحمادية"
+    },
+    {
+        "id_state": 34,
+        "city_name": "أولاد سيدي ابراهيم"
+    },
+    {
+        "id_state": 34,
+        "city_name": "عين تاغروت"
+    },
+    {
+        "id_state": 34,
+        "city_name": "تيكستار"
+    },
+    {
+        "id_state": 34,
+        "city_name": "بليمور"
+    },
+    {
+        "id_state": 34,
+        "city_name": "العناصر"
+    },
+    {
+        "id_state": 34,
+        "city_name": "غيلاسة"
+    },
+    {
+        "id_state": 34,
+        "city_name": "تقلعيت"
+    },
+    {
+        "id_state": 34,
+        "city_name": "برج الغدير"
+    },
+    {
+        "id_state": 34,
+        "city_name": "العش"
+    },
+    {
+        "id_state": 34,
+        "city_name": "سيدي أمبارك"
+    },
+    {
+        "id_state": 34,
+        "city_name": "خليل"
+    },
+    {
+        "id_state": 34,
+        "city_name": "بئر قاصد علي"
+    },
+    {
+        "id_state": 34,
+        "city_name": "تفرق"
+    },
+    {
+        "id_state": 34,
+        "city_name": "الماين"
+    },
+    {
+        "id_state": 34,
+        "city_name": "جعافرة"
+    },
+    {
+        "id_state": 34,
+        "city_name": "القلة"
+    },
+    {
+        "id_state": 34,
+        "city_name": "ثنية النصر"
+    },
+    {
+        "id_state": 34,
+        "city_name": "المهير"
+    },
+    {
+        "id_state": 34,
+        "city_name": "القصور"
+    },
+    {
+        "id_state": 34,
+        "city_name": "المنصورة"
+    },
+    {
+        "id_state": 34,
+        "city_name": "حرازة"
+    },
+    {
+        "id_state": 34,
+        "city_name": "الرابطة"
+    },
+    {
+        "id_state": 34,
+        "city_name": "الياشير"
+    },
+    {
+        "id_state": 34,
+        "city_name": "حسناوة"
+    },
+    {
+        "id_state": 34,
+        "city_name": "مجانة"
+    },
+    {
+        "id_state": 34,
+        "city_name": "عين تسرة"
+    },
+    {
+        "id_state": 34,
+        "city_name": "أولاد أبراهم"
+    },
+    {
+        "id_state": 34,
+        "city_name": "رأس الوادي"
+    },
+    {
+        "id_state": 34,
+        "city_name": "برج زمورة"
+    },
+    {
+        "id_state": 34,
+        "city_name": "أولاد دحمان"
+    },
+    {
+        "id_state": 34,
+        "city_name": "تسامرت"
+    },
+    {
+        "id_state": 34,
+        "city_name": "برج بوعريرج"
+    },
+    {
+        "id_state": 34,
+        "city_name": "بن داود"
+    },
+    {
+        "id_state": 35,
+        "city_name": "الخروبة"
+    },
+    {
+        "id_state": 35,
+        "city_name": "دلس"
+    },
+    {
+        "id_state": 35,
+        "city_name": "بن شود"
+    },
+    {
+        "id_state": 35,
+        "city_name": "أعفير"
+    },
+    {
+        "id_state": 35,
+        "city_name": "الثنية"
+    },
+    {
+        "id_state": 35,
+        "city_name": "بني عمران"
+    },
+    {
+        "id_state": 35,
+        "city_name": "خميس الخشنة"
+    },
+    {
+        "id_state": 35,
+        "city_name": "عمال"
+    },
+    {
+        "id_state": 35,
+        "city_name": "تيمزريت"
+    },
+    {
+        "id_state": 35,
+        "city_name": "زموري"
+    },
+    {
+        "id_state": 35,
+        "city_name": "الاربعطاش"
+    },
+    {
+        "id_state": 35,
+        "city_name": "يسر"
+    },
+    {
+        "id_state": 35,
+        "city_name": "شعبة العامر"
+    },
+    {
+        "id_state": 35,
+        "city_name": "أولاد عيسى"
+    },
+    {
+        "id_state": 35,
+        "city_name": "الناصرية"
+    },
+    {
+        "id_state": 35,
+        "city_name": "بوزقزة قدارة"
+    },
+    {
+        "id_state": 35,
+        "city_name": "سوق الحد"
+    },
+    {
+        "id_state": 35,
+        "city_name": "سيدي داود"
+    },
+    {
+        "id_state": 35,
+        "city_name": "بغلية"
+    },
+    {
+        "id_state": 35,
+        "city_name": "لقاطة"
+    },
+    {
+        "id_state": 35,
+        "city_name": "جنات"
+    },
+    {
+        "id_state": 35,
+        "city_name": "تيجلابين"
+    },
+    {
+        "id_state": 35,
+        "city_name": "سي مصطفى"
+    },
+    {
+        "id_state": 35,
+        "city_name": "أولاد هداج"
+    },
+    {
+        "id_state": 35,
+        "city_name": "أولاد موسى"
+    },
+    {
+        "id_state": 35,
+        "city_name": "بومرداس"
+    },
+    {
+        "id_state": 35,
+        "city_name": "قورصو"
+    },
+    {
+        "id_state": 35,
+        "city_name": "برج منايل"
+    },
+    {
+        "id_state": 35,
+        "city_name": "بودواو"
+    },
+    {
+        "id_state": 35,
+        "city_name": "بودواو البحري"
+    },
+    {
+        "id_state": 35,
+        "city_name": "تاورقة"
+    },
+    {
+        "id_state": 35,
+        "city_name": "حمادي"
+    },
+    {
+        "id_state": 36,
+        "city_name": "عين العسل"
+    },
+    {
+        "id_state": 36,
+        "city_name": "بوقوس"
+    },
+    {
+        "id_state": 36,
+        "city_name": "الطارف"
+    },
+    {
+        "id_state": 36,
+        "city_name": "الزيتونة"
+    },
+    {
+        "id_state": 36,
+        "city_name": "البسباس"
+    },
+    {
+        "id_state": 36,
+        "city_name": "عين الكرمة"
+    },
+    {
+        "id_state": 36,
+        "city_name": "بوحجار"
+    },
+    {
+        "id_state": 36,
+        "city_name": "حمام بني صالح"
+    },
+    {
+        "id_state": 36,
+        "city_name": "وادي الزيتون"
+    },
+    {
+        "id_state": 36,
+        "city_name": "بن مهيدي"
+    },
+    {
+        "id_state": 36,
+        "city_name": "بريحان"
+    },
+    {
+        "id_state": 36,
+        "city_name": "شبيطة مختار"
+    },
+    {
+        "id_state": 36,
+        "city_name": "الشط"
+    },
+    {
+        "id_state": 36,
+        "city_name": "العيون"
+    },
+    {
+        "id_state": 36,
+        "city_name": "القالة"
+    },
+    {
+        "id_state": 36,
+        "city_name": "السوارخ"
+    },
+    {
+        "id_state": 36,
+        "city_name": "زريزر"
+    },
+    {
+        "id_state": 36,
+        "city_name": "بوثلجة"
+    },
+    {
+        "id_state": 36,
+        "city_name": "الشافية"
+    },
+    {
+        "id_state": 36,
+        "city_name": "بحيرة الطيور"
+    },
+    {
+        "id_state": 36,
+        "city_name": "شحاني"
+    },
+    {
+        "id_state": 36,
+        "city_name": "رمل السوق"
+    },
+    {
+        "id_state": 36,
+        "city_name": "عصفور"
+    },
+    {
+        "id_state": 36,
+        "city_name": "الذرعـان"
+    },
+    {
+        "id_state": 37,
+        "city_name": "تندوف"
+    },
+    {
+        "id_state": 37,
+        "city_name": "أم العسل"
+    },
+    {
+        "id_state": 38,
+        "city_name": "خميستي"
+    },
+    {
+        "id_state": 38,
+        "city_name": "ثنية الاحد"
+    },
+    {
+        "id_state": 38,
+        "city_name": "أولاد بسام"
+    },
+    {
+        "id_state": 38,
+        "city_name": "سيدي بوتوشنت"
+    },
+    {
+        "id_state": 38,
+        "city_name": "تيسمسيلت"
+    },
+    {
+        "id_state": 38,
+        "city_name": "سيدي العنتري"
+    },
+    {
+        "id_state": 38,
+        "city_name": "بني شعيب"
+    },
+    {
+        "id_state": 38,
+        "city_name": "بني لحسن"
+    },
+    {
+        "id_state": 38,
+        "city_name": "سيدي عابد"
+    },
+    {
+        "id_state": 38,
+        "city_name": "سيدي سليمان"
+    },
+    {
+        "id_state": 38,
+        "city_name": "بوقائد"
+    },
+    {
+        "id_state": 38,
+        "city_name": "الأربعاء"
+    },
+    {
+        "id_state": 38,
+        "city_name": "الأزهرية"
+    },
+    {
+        "id_state": 38,
+        "city_name": "لرجام"
+    },
+    {
+        "id_state": 38,
+        "city_name": "الملعب"
+    },
+    {
+        "id_state": 38,
+        "city_name": "العيون"
+    },
+    {
+        "id_state": 38,
+        "city_name": "تملاحت"
+    },
+    {
+        "id_state": 38,
+        "city_name": "اليوسفية"
+    },
+    {
+        "id_state": 38,
+        "city_name": "برج الأمير عبد القادر"
+    },
+    {
+        "id_state": 38,
+        "city_name": "عماري"
+    },
+    {
+        "id_state": 38,
+        "city_name": "المعاصم"
+    },
+    {
+        "id_state": 38,
+        "city_name": "برج بونعامة"
+    },
+    {
+        "id_state": 39,
+        "city_name": "دوار الماء"
+    },
+    {
+        "id_state": 39,
+        "city_name": "العقلة"
+    },
+    {
+        "id_state": 39,
+        "city_name": "المقرن"
+    },
+    {
+        "id_state": 39,
+        "city_name": "سيدي عون"
+    },
+    {
+        "id_state": 39,
+        "city_name": "اميه وانسة"
+    },
+    {
+        "id_state": 39,
+        "city_name": "كوينين"
+    },
+    {
+        "id_state": 39,
+        "city_name": "البياضة"
+    },
+    {
+        "id_state": 39,
+        "city_name": "النخلة"
+    },
+    {
+        "id_state": 39,
+        "city_name": "الرباح"
+    },
+    {
+        "id_state": 39,
+        "city_name": "قمار"
+    },
+    {
+        "id_state": 39,
+        "city_name": "بن  قشة"
+    },
+    {
+        "id_state": 39,
+        "city_name": "ورماس"
+    },
+    {
+        "id_state": 39,
+        "city_name": "تغزوت"
+    },
+    {
+        "id_state": 39,
+        "city_name": "الحمراية"
+    },
+    {
+        "id_state": 39,
+        "city_name": "الرقيبة"
+    },
+    {
+        "id_state": 39,
+        "city_name": "الدبيلة"
+    },
+    {
+        "id_state": 39,
+        "city_name": "حساني عبد الكريم"
+    },
+    {
+        "id_state": 39,
+        "city_name": "حاسي خليفة"
+    },
+    {
+        "id_state": 39,
+        "city_name": "الطريفاوي"
+    },
+    {
+        "id_state": 39,
+        "city_name": "الطالب العربي"
+    },
+    {
+        "id_state": 39,
+        "city_name": "وادي العلندة"
+    },
+    {
+        "id_state": 39,
+        "city_name": "الوادي"
+    },
+    {
+        "id_state": 40,
+        "city_name": "خيران"
+    },
+    {
+        "id_state": 40,
+        "city_name": "بابار"
+    },
+    {
+        "id_state": 40,
+        "city_name": "المحمل"
+    },
+    {
+        "id_state": 40,
+        "city_name": "أولاد رشاش"
+    },
+    {
+        "id_state": 40,
+        "city_name": "جلال"
+    },
+    {
+        "id_state": 40,
+        "city_name": "يابوس"
+    },
+    {
+        "id_state": 40,
+        "city_name": "خنشلة"
+    },
+    {
+        "id_state": 40,
+        "city_name": "قايس"
+    },
+    {
+        "id_state": 40,
+        "city_name": "شلية"
+    },
+    {
+        "id_state": 40,
+        "city_name": "الرميلة"
+    },
+    {
+        "id_state": 40,
+        "city_name": "تاوزيانت"
+    },
+    {
+        "id_state": 40,
+        "city_name": "بغاي"
+    },
+    {
+        "id_state": 40,
+        "city_name": "الحامة"
+    },
+    {
+        "id_state": 40,
+        "city_name": "انسيغة"
+    },
+    {
+        "id_state": 40,
+        "city_name": "طامزة"
+    },
+    {
+        "id_state": 40,
+        "city_name": "عين الطويلة"
+    },
+    {
+        "id_state": 40,
+        "city_name": "متوسة"
+    },
+    {
+        "id_state": 40,
+        "city_name": "بوحمامة"
+    },
+    {
+        "id_state": 40,
+        "city_name": "الولجة"
+    },
+    {
+        "id_state": 40,
+        "city_name": "مصارة"
+    },
+    {
+        "id_state": 40,
+        "city_name": "ششار"
+    },
+    {
+        "id_state": 41,
+        "city_name": "سوق أهراس"
+    },
+    {
+        "id_state": 41,
+        "city_name": "عين سلطان"
+    },
+    {
+        "id_state": 41,
+        "city_name": "سدراتة"
+    },
+    {
+        "id_state": 41,
+        "city_name": "الحنانشة"
+    },
+    {
+        "id_state": 41,
+        "city_name": "المشروحة"
+    },
+    {
+        "id_state": 41,
+        "city_name": "عين الزانة"
+    },
+    {
+        "id_state": 41,
+        "city_name": "أولاد إدريس"
+    },
+    {
+        "id_state": 41,
+        "city_name": "ترقالت"
+    },
+    {
+        "id_state": 41,
+        "city_name": "أم العظايم"
+    },
+    {
+        "id_state": 41,
+        "city_name": "وادي الكبريت"
+    },
+    {
+        "id_state": 41,
+        "city_name": "تيفاش"
+    },
+    {
+        "id_state": 41,
+        "city_name": "الراقوبة"
+    },
+    {
+        "id_state": 41,
+        "city_name": "الدريعة"
+    },
+    {
+        "id_state": 41,
+        "city_name": "تاورة"
+    },
+    {
+        "id_state": 41,
+        "city_name": "الزعرورية"
+    },
+    {
+        "id_state": 41,
+        "city_name": "الحدادة"
+    },
+    {
+        "id_state": 41,
+        "city_name": "الخضارة"
+    },
+    {
+        "id_state": 41,
+        "city_name": "أولاد مومن"
+    },
+    {
+        "id_state": 41,
+        "city_name": "المراهنة"
+    },
+    {
+        "id_state": 41,
+        "city_name": "ويلان"
+    },
+    {
+        "id_state": 41,
+        "city_name": "سيدي فرج"
+    },
+    {
+        "id_state": 41,
+        "city_name": "بئر بوحوش"
+    },
+    {
+        "id_state": 41,
+        "city_name": "سافل الويدان"
+    },
+    {
+        "id_state": 41,
+        "city_name": "خميسة"
+    },
+    {
+        "id_state": 41,
+        "city_name": "مداوروش"
+    },
+    {
+        "id_state": 41,
+        "city_name": "الزوابي"
+    },
+    {
+        "id_state": 42,
+        "city_name": "حجوط"
+    },
+    {
+        "id_state": 42,
+        "city_name": "مراد"
+    },
+    {
+        "id_state": 42,
+        "city_name": "مناصر"
+    },
+    {
+        "id_state": 42,
+        "city_name": "أغبال"
+    },
+    {
+        "id_state": 42,
+        "city_name": "الناظور"
+    },
+    {
+        "id_state": 42,
+        "city_name": "سيدي عامر"
+    },
+    {
+        "id_state": 42,
+        "city_name": "قوراية"
+    },
+    {
+        "id_state": 42,
+        "city_name": "مسلمون"
+    },
+    {
+        "id_state": 42,
+        "city_name": "شرشال"
+    },
+    {
+        "id_state": 42,
+        "city_name": "حجرة النص"
+    },
+    {
+        "id_state": 42,
+        "city_name": "سيدي غيلاس"
+    },
+    {
+        "id_state": 42,
+        "city_name": "الداموس"
+    },
+    {
+        "id_state": 42,
+        "city_name": "الأرهاط"
+    },
+    {
+        "id_state": 42,
+        "city_name": "فوكة"
+    },
+    {
+        "id_state": 42,
+        "city_name": "عين تاقورايت"
+    },
+    {
+        "id_state": 42,
+        "city_name": "بوهارون"
+    },
+    {
+        "id_state": 42,
+        "city_name": "بواسماعيل"
+    },
+    {
+        "id_state": 42,
+        "city_name": "خميستي"
+    },
+    {
+        "id_state": 42,
+        "city_name": "أحمر العين"
+    },
+    {
+        "id_state": 42,
+        "city_name": "بورقيقة"
+    },
+    {
+        "id_state": 42,
+        "city_name": "دواودة"
+    },
+    {
+        "id_state": 42,
+        "city_name": "سيدي راشد"
+    },
+    {
+        "id_state": 42,
+        "city_name": "الحطاطبة"
+    },
+    {
+        "id_state": 42,
+        "city_name": "الشعيبة"
+    },
+    {
+        "id_state": 42,
+        "city_name": "القليعة"
+    },
+    {
+        "id_state": 42,
+        "city_name": "سيدي سميان"
+    },
+    {
+        "id_state": 42,
+        "city_name": "تيبازة"
+    },
+    {
+        "id_state": 42,
+        "city_name": "بني ميلك"
+    },
+    {
+        "id_state": 43,
+        "city_name": "مشيرة"
+    },
+    {
+        "id_state": 43,
+        "city_name": "العياضي برباس"
+    },
+    {
+        "id_state": 43,
+        "city_name": " عين البيضاء أحريش"
+    },
+    {
+        "id_state": 43,
+        "city_name": "تسالة لمطاعي"
+    },
+    {
+        "id_state": 43,
+        "city_name": "ترعي باينان"
+    },
+    {
+        "id_state": 43,
+        "city_name": "اعميرة اراس"
+    },
+    {
+        "id_state": 43,
+        "city_name": "تسدان حدادة"
+    },
+    {
+        "id_state": 43,
+        "city_name": "مينار زارزة"
+    },
+    {
+        "id_state": 43,
+        "city_name": "سيدي مروان"
+    },
+    {
+        "id_state": 43,
+        "city_name": "الشيقارة"
+    },
+    {
+        "id_state": 43,
+        "city_name": "حمالة"
+    },
+    {
+        "id_state": 43,
+        "city_name": "القرارم قوقة"
+    },
+    {
+        "id_state": 43,
+        "city_name": "تيبرقنت"
+    },
+    {
+        "id_state": 43,
+        "city_name": "الرواشد"
+    },
+    {
+        "id_state": 43,
+        "city_name": "دراحي بوصلاح"
+    },
+    {
+        "id_state": 43,
+        "city_name": "زغاية"
+    },
+    {
+        "id_state": 43,
+        "city_name": "وادي النجاء"
+    },
+    {
+        "id_state": 43,
+        "city_name": "أحمد راشدي"
+    },
+    {
+        "id_state": 43,
+        "city_name": "تاجنانت"
+    },
+    {
+        "id_state": 43,
+        "city_name": "عين الملوك"
+    },
+    {
+        "id_state": 43,
+        "city_name": "أولاد اخلوف"
+    },
+    {
+        "id_state": 43,
+        "city_name": "بن يحي عبد الرحمن"
+    },
+    {
+        "id_state": 43,
+        "city_name": "التلاغمة"
+    },
+    {
+        "id_state": 43,
+        "city_name": "وادي سقان"
+    },
+    {
+        "id_state": 43,
+        "city_name": "وادي العثمانية"
+    },
+    {
+        "id_state": 43,
+        "city_name": "عين التين"
+    },
+    {
+        "id_state": 43,
+        "city_name": "شلغوم العيد"
+    },
+    {
+        "id_state": 43,
+        "city_name": "يحي بني قشة"
+    },
+    {
+        "id_state": 43,
+        "city_name": "فرجيوة"
+    },
+    {
+        "id_state": 43,
+        "city_name": "سيدي خليفة"
+    },
+    {
+        "id_state": 43,
+        "city_name": "ميلة"
+    },
+    {
+        "id_state": 43,
+        "city_name": "بوحاتم"
+    },
+    {
+        "id_state": 44,
+        "city_name": "خميس مليانة"
+    },
+    {
+        "id_state": 44,
+        "city_name": "سيدي الأخضر"
+    },
+    {
+        "id_state": 44,
+        "city_name": "عين البنيان"
+    },
+    {
+        "id_state": 44,
+        "city_name": "عين التركي"
+    },
+    {
+        "id_state": 44,
+        "city_name": "حمام ريغة"
+    },
+    {
+        "id_state": 44,
+        "city_name": "بوراشد"
+    },
+    {
+        "id_state": 44,
+        "city_name": "الحسينية"
+    },
+    {
+        "id_state": 44,
+        "city_name": "جليدة"
+    },
+    {
+        "id_state": 44,
+        "city_name": "عريب"
+    },
+    {
+        "id_state": 44,
+        "city_name": "جمعة أولاد الشيخ"
+    },
+    {
+        "id_state": 44,
+        "city_name": "العامرة"
+    },
+    {
+        "id_state": 44,
+        "city_name": "العطاف"
+    },
+    {
+        "id_state": 44,
+        "city_name": "تبركانين"
+    },
+    {
+        "id_state": 44,
+        "city_name": "عين بويحيى"
+    },
+    {
+        "id_state": 44,
+        "city_name": "العبادية"
+    },
+    {
+        "id_state": 44,
+        "city_name": "تاشتة زقاغة"
+    },
+    {
+        "id_state": 44,
+        "city_name": "بربوش"
+    },
+    {
+        "id_state": 44,
+        "city_name": "جندل"
+    },
+    {
+        "id_state": 44,
+        "city_name": "بن علال"
+    },
+    {
+        "id_state": 44,
+        "city_name": "وادي الشرفاء"
+    },
+    {
+        "id_state": 44,
+        "city_name": "بومدفع"
+    },
+    {
+        "id_state": 44,
+        "city_name": "عين الاشياخ"
+    },
+    {
+        "id_state": 44,
+        "city_name": "عين السلطان"
+    },
+    {
+        "id_state": 44,
+        "city_name": "واد الجمعة"
+    },
+    {
+        "id_state": 44,
+        "city_name": "الماين"
+    },
+    {
+        "id_state": 44,
+        "city_name": "الروينة"
+    },
+    {
+        "id_state": 44,
+        "city_name": "زدين"
+    },
+    {
+        "id_state": 44,
+        "city_name": "بئر ولد خليفة"
+    },
+    {
+        "id_state": 44,
+        "city_name": "برج الأمير خالد"
+    },
+    {
+        "id_state": 44,
+        "city_name": "طارق بن زياد"
+    },
+    {
+        "id_state": 44,
+        "city_name": "بطحية"
+    },
+    {
+        "id_state": 44,
+        "city_name": "بلعاص"
+    },
+    {
+        "id_state": 44,
+        "city_name": "الحسانية"
+    },
+    {
+        "id_state": 44,
+        "city_name": "عين الدفلى"
+    },
+    {
+        "id_state": 44,
+        "city_name": "مليانة"
+    },
+    {
+        "id_state": 44,
+        "city_name": "المخاطرية"
+    },
+    {
+        "id_state": 45,
+        "city_name": "تيوت"
+    },
+    {
+        "id_state": 45,
+        "city_name": "مغرار"
+    },
+    {
+        "id_state": 45,
+        "city_name": "عسلة"
+    },
+    {
+        "id_state": 45,
+        "city_name": "القصدير"
+    },
+    {
+        "id_state": 45,
+        "city_name": "مكمن بن عمار"
+    },
+    {
+        "id_state": 45,
+        "city_name": "عين الصفراء"
+    },
+    {
+        "id_state": 45,
+        "city_name": "المشرية"
+    },
+    {
+        "id_state": 45,
+        "city_name": "البيوض"
+    },
+    {
+        "id_state": 45,
+        "city_name": "عين بن خليل"
+    },
+    {
+        "id_state": 45,
+        "city_name": "النعامة"
+    },
+    {
+        "id_state": 45,
+        "city_name": "جنين بورزق"
+    },
+    {
+        "id_state": 45,
+        "city_name": "سفيسيفة"
+    },
+    {
+        "id_state": 46,
+        "city_name": "سيدي بومدين"
+    },
+    {
+        "id_state": 46,
+        "city_name": "تامزورة"
+    },
+    {
+        "id_state": 46,
+        "city_name": "شعبة اللحم"
+    },
+    {
+        "id_state": 46,
+        "city_name": "المالح"
+    },
+    {
+        "id_state": 46,
+        "city_name": "أولاد الكيحل"
+    },
+    {
+        "id_state": 46,
+        "city_name": "شنتوف"
+    },
+    {
+        "id_state": 46,
+        "city_name": "تارقة"
+    },
+    {
+        "id_state": 46,
+        "city_name": "وادي الصباح"
+    },
+    {
+        "id_state": 46,
+        "city_name": "العامرية"
+    },
+    {
+        "id_state": 46,
+        "city_name": "حاسي الغلة"
+    },
+    {
+        "id_state": 46,
+        "city_name": "أولاد بوجمعة"
+    },
+    {
+        "id_state": 46,
+        "city_name": "أغلال"
+    },
+    {
+        "id_state": 46,
+        "city_name": "عين الكيحل"
+    },
+    {
+        "id_state": 46,
+        "city_name": "عين الطلبة"
+    },
+    {
+        "id_state": 46,
+        "city_name": "عقب الليل"
+    },
+    {
+        "id_state": 46,
+        "city_name": "بني صاف"
+    },
+    {
+        "id_state": 46,
+        "city_name": "الحساسنة"
+    },
+    {
+        "id_state": 46,
+        "city_name": "الأمير عبد القادر"
+    },
+    {
+        "id_state": 46,
+        "city_name": "سيدي صافي"
+    },
+    {
+        "id_state": 46,
+        "city_name": "ولهاصة الغرابة"
+    },
+    {
+        "id_state": 46,
+        "city_name": "سيدي ورياش"
+    },
+    {
+        "id_state": 46,
+        "city_name": "عين الأربعاء"
+    },
+    {
+        "id_state": 46,
+        "city_name": "المساعيد"
+    },
+    {
+        "id_state": 46,
+        "city_name": "وادي برقش"
+    },
+    {
+        "id_state": 46,
+        "city_name": "سيدي بن عدة"
+    },
+    {
+        "id_state": 46,
+        "city_name": "عين تموشنت"
+    },
+    {
+        "id_state": 46,
+        "city_name": "بوزجار"
+    },
+    {
+        "id_state": 46,
+        "city_name": "حمام بوحجر"
+    },
+    {
+        "id_state": 47,
+        "city_name": "ضاية بن ضحوة"
+    },
+    {
+        "id_state": 47,
+        "city_name": "المنصورة"
+    },
+    {
+        "id_state": 47,
+        "city_name": "العطف"
+    },
+    {
+        "id_state": 47,
+        "city_name": "بونورة"
+    },
+    {
+        "id_state": 47,
+        "city_name": "زلفانة"
+    },
+    {
+        "id_state": 47,
+        "city_name": "القرارة"
+    },
+    {
+        "id_state": 47,
+        "city_name": "سبسب"
+    },
+    {
+        "id_state": 47,
+        "city_name": "متليلي"
+    },
+    {
+        "id_state": 47,
+        "city_name": "بريان"
+    },
+    {
+        "id_state": 47,
+        "city_name": "غرداية"
+    },
+    {
+        "id_state": 48,
+        "city_name": "القطار"
+    },
+    {
+        "id_state": 48,
+        "city_name": "أولاد يعيش"
+    },
+    {
+        "id_state": 48,
+        "city_name": "بني درقن"
+    },
+    {
+        "id_state": 48,
+        "city_name": "دار بن عبد الله"
+    },
+    {
+        "id_state": 48,
+        "city_name": "زمورة"
+    },
+    {
+        "id_state": 48,
+        "city_name": "جديوية"
+    },
+    {
+        "id_state": 48,
+        "city_name": "حمري"
+    },
+    {
+        "id_state": 48,
+        "city_name": "بلعسل بوزقزة"
+    },
+    {
+        "id_state": 48,
+        "city_name": "المطمر"
+    },
+    {
+        "id_state": 48,
+        "city_name": "سيدي  خطاب"
+    },
+    {
+        "id_state": 48,
+        "city_name": "سيدي امحمد بن عودة"
+    },
+    {
+        "id_state": 48,
+        "city_name": "عين طارق"
+    },
+    {
+        "id_state": 48,
+        "city_name": "حد الشكالة"
+    },
+    {
+        "id_state": 48,
+        "city_name": "الولجة"
+    },
+    {
+        "id_state": 48,
+        "city_name": "مازونة"
+    },
+    {
+        "id_state": 48,
+        "city_name": "عين الرحمة"
+    },
+    {
+        "id_state": 48,
+        "city_name": "القلعة"
+    },
+    {
+        "id_state": 48,
+        "city_name": "سيدي سعادة"
+    },
+    {
+        "id_state": 48,
+        "city_name": "يلل"
+    },
+    {
+        "id_state": 48,
+        "city_name": "سوق الحد"
+    },
+    {
+        "id_state": 48,
+        "city_name": "منداس"
+    },
+    {
+        "id_state": 48,
+        "city_name": "وادي السلام"
+    },
+    {
+        "id_state": 48,
+        "city_name": "سيدي لزرق"
+    },
+    {
+        "id_state": 48,
+        "city_name": "عمي موسى"
+    },
+    {
+        "id_state": 48,
+        "city_name": "واريزان"
+    },
+    {
+        "id_state": 48,
+        "city_name": "مرجة سيدي عابد"
+    },
+    {
+        "id_state": 48,
+        "city_name": "أولاد سيدي الميهوب"
+    },
+    {
+        "id_state": 48,
+        "city_name": "بن داود"
+    },
+    {
+        "id_state": 48,
+        "city_name": "وادي رهيو"
+    },
+    {
+        "id_state": 48,
+        "city_name": "الحاسي"
+    },
+    {
+        "id_state": 48,
+        "city_name": "سيدي أمحمد بن علي"
+    },
+    {
+        "id_state": 48,
+        "city_name": "مديونة"
+    },
+    {
+        "id_state": 48,
+        "city_name": "بني زنطيس"
+    },
+    {
+        "id_state": 48,
+        "city_name": "وادي الجمعة"
+    },
+    {
+        "id_state": 48,
+        "city_name": "لحلاف"
+    },
+    {
+        "id_state": 48,
+        "city_name": "غليزان"
+    },
+    {
+        "id_state": 48,
+        "city_name": "الحمادنة"
+    },
+    {
+        "id_state": 48,
+        "city_name": "الرمكة"
+    },
+    {
+        "id_state": 49,
+        "city_name": "تنركوك"
+    },
+    {
+        "id_state": 49,
+        "city_name": "تيميمون"
+    },
+    {
+        "id_state": 49,
+        "city_name": "أولاد السعيد"
+    },
+    {
+        "id_state": 49,
+        "city_name": "المطارفة"
+    },
+    {
+        "id_state": 49,
+        "city_name": "طالمين"
+    },
+    {
+        "id_state": 49,
+        "city_name": "أولاد عيسى"
+    },
+    {
+        "id_state": 49,
+        "city_name": "شروين"
+    },
+    {
+        "id_state": 49,
+        "city_name": "أوقروت"
+    },
+    {
+        "id_state": 49,
+        "city_name": "دلدول"
+    },
+    {
+        "id_state": 49,
+        "city_name": "قصر قدور"
+    },
+    {
+        "id_state": 50,
+        "city_name": "تيمياوين"
+    },
+    {
+        "id_state": 50,
+        "city_name": "برج باجي مختار"
+    },
+    {
+        "id_state": 51,
+        "city_name": "رأس الميعاد"
+    },
+    {
+        "id_state": 51,
+        "city_name": "بسباس"
+    },
+    {
+        "id_state": 51,
+        "city_name": "سيدي  خالد"
+    },
+    {
+        "id_state": 51,
+        "city_name": "الدوسن"
+    },
+    {
+        "id_state": 51,
+        "city_name": "الشعيبة"
+    },
+    {
+        "id_state": 51,
+        "city_name": "أولاد جلال"
+    },
+    {
+        "id_state": 52,
+        "city_name": "بني عباس"
+    },
+    {
+        "id_state": 52,
+        "city_name": "تامترت"
+    },
+    {
+        "id_state": 52,
+        "city_name": "إقلي"
+    },
+    {
+        "id_state": 52,
+        "city_name": "الواتة"
+    },
+    {
+        "id_state": 52,
+        "city_name": "أولاد خضير"
+    },
+    {
+        "id_state": 52,
+        "city_name": "كرزاز"
+    },
+    {
+        "id_state": 52,
+        "city_name": "تيمودي"
+    },
+    {
+        "id_state": 52,
+        "city_name": "القصابي"
+    },
+    {
+        "id_state": 52,
+        "city_name": "بن يخلف"
+    },
+    {
+        "id_state": 53,
+        "city_name": "إينغر"
+    },
+    {
+        "id_state": 53,
+        "city_name": "عين صالح"
+    },
+    {
+        "id_state": 53,
+        "city_name": "فقارة الزوى"
+    },
+    {
+        "id_state": 54,
+        "city_name": "تين زواتين"
+    },
+    {
+        "id_state": 54,
+        "city_name": "عين قزام"
+    },
+    {
+        "id_state": 55,
+        "city_name": "تماسين"
+    },
+    {
+        "id_state": 55,
+        "city_name": "سيدي سليمان"
+    },
+    {
+        "id_state": 55,
+        "city_name": "المقارين"
+    },
+    {
+        "id_state": 55,
+        "city_name": "النزلة"
+    },
+    {
+        "id_state": 55,
+        "city_name": "بلدة اعمر"
+    },
+    {
+        "id_state": 55,
+        "city_name": "تبسبست"
+    },
+    {
+        "id_state": 55,
+        "city_name": "تقرت"
+    },
+    {
+        "id_state": 55,
+        "city_name": "الطيبات"
+    },
+    {
+        "id_state": 55,
+        "city_name": "العالية"
+    },
+    {
+        "id_state": 55,
+        "city_name": "الحجيرة"
+    },
+    {
+        "id_state": 55,
+        "city_name": "بن ناصر"
+    },
+    {
+        "id_state": 55,
+        "city_name": "المنقر"
+    },
+    {
+        "id_state": 55,
+        "city_name": "الزاوية العابدية"
+    },
+    {
+        "id_state": 56,
+        "city_name": "جانت"
+    },
+    {
+        "id_state": 56,
+        "city_name": "برج الحواس"
+    },
+    {
+        "id_state": 57,
+        "city_name": "أم الطيور"
+    },
+    {
+        "id_state": 57,
+        "city_name": "سيدي عمران"
+    },
+    {
+        "id_state": 57,
+        "city_name": "المرارة"
+    },
+    {
+        "id_state": 57,
+        "city_name": "جامعة"
+    },
+    {
+        "id_state": 57,
+        "city_name": "تندلة"
+    },
+    {
+        "id_state": 57,
+        "city_name": "المغير"
+    },
+    {
+        "id_state": 57,
+        "city_name": "سطيل"
+    },
+    {
+        "id_state": 57,
+        "city_name": "سيدي خليل"
+    },
+    {
+        "id_state": 58,
+        "city_name": "المنيعة"
+    },
+    {
+        "id_state": 58,
+        "city_name": "حاسي القارة"
+    },
+    {
+        "id_state": 58,
+        "city_name": "حاسي الفحل"
+    }
+]
